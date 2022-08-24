@@ -1,3 +1,26 @@
+【测试翡翠台】,#genre#
+翡翠台,http://113.64.147.72:808/hls/67/index.m3u8
+翡翠台,mitv://ns2.hellotvvod.com:9906/454cd2639f0d4623b05f7ff5e8152de8
+翡翠台,http://radius.8866.org:880/hls/80/index.m3u8
+翡翠台,http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
+翡翠台,http://120.84.96.32:808/hls/25/index.m3u8
+TVB翡翠台,http://51.222.193.143:10010/2
+TVB翡翠台,http://iptv.tvfix.org/hls/jade.m3u8
+TVB翡翠台,http://iptv.tvfix.org/hls/jadenhk.m3u8
+TVB翡翠台,http://51.79.193.108:8080/hls/ph00455/index.m3u8
+TVB翡翠台,http://iptv.tvfix.org/hls/jade.m3u8
+TVB翡翠台,http://iptv.tvfix.org/hls/jadenhk.m3u8
+TVB翡翠台海外版(粤语),http://iptv.tvfix.org/hls/jadenhk.m3u8
+TVB翡翠台海外版(普通话),http://iptv.tvfix.org/hls/jadenhk2.m3u8
+TVB翡翠台海外版(普通话),http://iptv.tvfix.org/hls/jadenhk2.m3u8
+福建漳州翡翠湾
+06-28-2022 checked
+copy to clip
+https://gcalic.v.myalicdn.com/gc/fcw03_1
+福建漳州翡翠湾,http://gcalic.v.myalicdn.com/gc/fcw01_1/index.m3u8
+福建漳州翡翠湾,http://gcksc.v.kcdnvip.com/gc/fcw03_1/index.m3u8
+福建漳州翡翠湾,https://gcalic.v.myalicdn.com/gc/fcw01_1/index.m3u8
+福建漳州翡翠湾,http://gcalic.v.myalicdn.com/gc/fcw01_1/index.m3u8
 【央视频道】,#genre#
 CCTV-1综合,http://111.20.33.93/PLTV/88888893/224/3221226010/index.m3u8
 CCTV-1综合,http://111.20.33.93/TVOD/88888893/224/3221226231/index.m3u8
