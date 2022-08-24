@@ -1,6 +1,6 @@
 //{"key":"key_〔资源名称〕","name":"资源名称","type":0,"api":"csp_〔jar内文件名称〕","searchable":1,"quickSearch":1,"filterable":0,"jar":"〔jar文件地址〕","ext":"〔txt json文件地址〕","playUrl":"〔播放解析地址〕","categories":["〔自定义资源列表〕","〔自定义资源列表〕"] },
 
-{"spider":"https://gitea.com/zhanghong/TVBOXZY/raw/branch/main/jar/0822w.jar",
+{"spider":"https://gitea.com/zhanghong/TVBOXZY/raw/branch/main/JAR/0822w.jar",
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9tcGltZy5jbi9kb3duLnBocC81ODI1N2ZkMjBkZmMxMzg1YTY3MmI4YTQ0MGZkYTRhZC50eHQmODMwMzEw"]}]}],
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 "sites":[
