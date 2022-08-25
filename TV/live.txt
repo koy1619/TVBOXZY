@@ -1,4 +1,5 @@
 【央视频道】,#genre#
+CCTV-1综合,http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000001000021973/1.m3u8?Contentid=1000000001000021973&livemode=1&stbId=3&channel-id=ystenlive
 CCTV-1综合,http://111.20.33.93/PLTV/88888893/224/3221226010/index.m3u8
 CCTV-1综合,http://111.20.33.93/TVOD/88888893/224/3221226231/index.m3u8
 CCTV-1综合,http://111.40.196.25/PLTV/88888888/224/3221225548/index.m3u8
@@ -9,11 +10,13 @@ CCTV-1综合,http://39.134.66.110/PLTV/88888888/224/3221225816/index.m3u8
 CCTV-1综合,http://39.134.67.226/PLTV/88888888/224/3221225816/index.m3u8
 CCTV-1综合,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/cctv1hd/2300000/mnf.m3u8
 CCTV-1综合,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/cctv1hd/4000000/mnf.m3u8
+CCTV-2财经,http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000001000012442/1.m3u8?Contentid=1000000001000012442&livemode=1&stbId=3&channel-id=ystenlive  
 CCTV-2财经,http://111.20.33.93/PLTV/88888893/224/3221226224/index.m3u8
 CCTV-2财经,http://111.20.33.93/TVOD/88888893/224/3221226195/index.m3u8
 CCTV-2财经,http://111.63.117.13:6060/030000001000/G_CCTV-2/G_CCTV-2.m3u8
 CCTV-2财经,http://39.134.19.248:6610/yinhe/2/ch00000090990000001293/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV-2财经,http://39.134.19.248:6610/yinhe/2/ch00000090990000001332/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV-3综艺,http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000001000011218/1.m3u8?Contentid=1000000001000011218&livemode=1&stbId=3&channel-id=ystenlive  
 CCTV-3综艺,http://111.20.33.93/PLTV/88888893/224/3221226397/index.m3u8
 CCTV-3综艺,http://111.20.33.93/TVOD/88888893/224/3221226397/index.m3u8
 CCTV-3综艺,http://111.40.196.25/PLTV/88888888/224/3221225588/index.m3u8
@@ -26,6 +29,7 @@ CCTV-3综艺,http://39.134.66.110/PLTV/88888888/224/3221225799/index.m3u8
 CCTV-3综艺,http://39.134.67.226/PLTV/88888888/224/3221225799/index.m3u8
 CCTV-3综艺,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/cctv3hd/2300000/mnf.m3u8
 CCTV-3综艺,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/cctv3hd/4000000/mnf.m3u8
+CCTV-4中文国际,http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000002000031664/1.m3u8?Contentid=1000000002000031664&livemode=1&stbId=3&channel-id=ystenlive  
 CCTV-4中文国际,http://111.20.33.93/PLTV/88888893/224/3221226191/index.m3u8
 CCTV-4中文国际,http://111.20.33.93/TVOD/88888893/224/3221226191/index.m3u8
 CCTV-4中文国际,http://111.20.33.93/TVOD/88888893/224/3221226223/index.m3u8
@@ -33,11 +37,7 @@ CCTV-4中文国际,http://183.207.248.15/PLTV/3/224/3221225534/index.m3u8
 CCTV-4中文国际,http://183.207.249.11/PLTV/3/224/3221225534/index.m3u8
 CCTV-4中文国际,http://183.207.249.6/PLTV/3/224/3221225534/index.m3u8
 CCTV-4中文国际,http://39.134.65.175/PLTV/88888888/224/3221225797/index.m3u8
-CCTV-5+体育赛事,http://111.20.33.93/PLTV/88888893/224/3221226221/index.m3u8
-CCTV-5+体育赛事,http://111.20.33.93/TVOD/88888893/224/3221226221/index.m3u8
-CCTV-5+体育赛事,http://111.63.117.13:6060/030000001000/G_CCTV-5PLUS/G_CCTV-5PLUS.m3u8
-CCTV-5+体育赛事,http://183.207.249.14/PLTV/3/224/3221225604/index.m3u8
-CCTV-5+体育赛事,http://39.134.66.110/PLTV/88888888/224/3221225507/index.m3u8
+CCTV-5体育,http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000001000004794/1.m3u8?Contentid=1000000001000004794&livemode=1&stbId=3&channel-id=ystenlive  
 CCTV-5体育,http://111.20.33.93/PLTV/88888893/224/3221226395/index.m3u8
 CCTV-5体育,http://111.63.117.13:6060/030000001000/CCTV-5/CCTV-5.m3u8
 CCTV-5体育,http://39.134.19.248:6610/yinhe/2/ch00000090990000001850/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -45,6 +45,13 @@ CCTV-5体育,http://39.134.66.110/PLTV/88888888/224/3221225818/index.m3u8
 CCTV-5体育,http://39.134.67.226/PLTV/88888888/224/3221225818/index.m3u8
 CCTV-5体育,http://newvideo.dangtutv.cn:8278/CCTVsports/playlist.m3u8
 CCTV-5体育,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/cctv5hd/4000000/mnf.m3u8
+CCTV-5+体育赛事,http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000001000020505/1.m3u8?Contentid=1000000001000020505&livemode=1&stbId=3&channel-id=ystenlive  
+CCTV-5+体育赛事,http://111.20.33.93/PLTV/88888893/224/3221226221/index.m3u8
+CCTV-5+体育赛事,http://111.20.33.93/TVOD/88888893/224/3221226221/index.m3u8
+CCTV-5+体育赛事,http://111.63.117.13:6060/030000001000/G_CCTV-5PLUS/G_CCTV-5PLUS.m3u8
+CCTV-5+体育赛事,http://183.207.249.14/PLTV/3/224/3221225604/index.m3u8
+CCTV-5+体育赛事,http://39.134.66.110/PLTV/88888888/224/3221225507/index.m3u8
+CCTV-6电影,http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000001000016466/1.m3u8?Contentid=1000000001000016466&livemode=1&stbId=3&channel-id=ystenlive  
 CCTV-6电影,http://111.20.33.93/PLTV/88888893/224/3221226011/index.m3u8
 CCTV-6电影,http://111.20.33.93/TVOD/88888893/224/3221226393/index.m3u8
 CCTV-6电影,http://111.40.196.31/PLTV/88888888/224/3221225561/index.m3u8
@@ -54,6 +61,7 @@ CCTV-6电影,http://183.207.249.9/PLTV/3/224/3221225548/index.m3u8
 CCTV-6电影,http://39.134.19.248:6610/yinhe/2/ch00000090990000001859/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV-6电影,http://39.134.66.110/PLTV/88888888/224/3221225814/index.m3u8
 CCTV-6电影,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/cctv6hd/4000000/mnf.m3u8
+CCTV-7国防军事,http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000001000017218/1.m3u8?Contentid=1000000001000017218&livemode=1&stbId=3&channel-id=ystenlive  
 CCTV-7国防军事,http://111.20.33.93/PLTV/88888893/224/3221226192/index.m3u8
 CCTV-7国防军事,http://183.207.249.15/PLTV/3/224/3221225546/index.m3u8
 CCTV-7国防军事,http://183.207.249.36/PLTV/4/224/3221227314/index.m3u8
@@ -63,6 +71,7 @@ CCTV-7国防军事,http://39.134.65.179/PLTV/88888888/224/3221225671/1.m3u8
 CCTV-7国防军事,http://39.134.65.181/PLTV/88888888/224/3221225671/1.m3u8
 CCTV-7国防军事,http://39.134.65.183/PLTV/88888888/224/3221225671/1.m3u8
 CCTV-7国防军事,http://39.134.66.110/PLTV/88888888/224/3221225671/index.m3u8
+CCTV-8电视剧,http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000001000003736/1.m3u8?Contentid=1000000001000003736&livemode=1&stbId=3&channel-id=ystenlive  
 CCTV-8电视剧,http://111.20.33.93/PLTV/88888893/224/3221226391/index.m3u8
 CCTV-8电视剧,http://111.20.33.93/TVOD/88888893/224/3221226391/index.m3u8
 CCTV-8电视剧,http://111.40.196.25/PLTV/88888888/224/3221225565/index.m3u8
@@ -72,6 +81,7 @@ CCTV-8电视剧,http://39.134.66.110/PLTV/88888888/224/3221225795/index.m3u8
 CCTV-8电视剧,http://39.136.48.21:8089/PLTV/88888888/224/3221225753/index.m3u8
 CCTV-8电视剧,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231694/index.m3u8
 CCTV-8电视剧,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/cctv8hd/4000000/mnf.m3u8
+CCTV-9记录,http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000001000014583/1.m3u8?Contentid=1000000001000014583&livemode=1&stbId=3&channel-id=ystenlive  
 CCTV-9纪录,http://111.20.33.93/TVOD/88888893/224/3221226197/index.m3u8
 CCTV-9纪录,http://111.40.196.34/PLTV/88888888/224/3221225502/index.m3u8
 CCTV-9纪录,http://111.40.196.35/PLTV/88888888/224/3221225502/index.m3u8
@@ -83,6 +93,7 @@ CCTV-9纪录,http://39.134.65.208/PLTV/88888888/224/3221225676/index.m3u8
 CCTV-9纪录,http://39.134.66.110/PLTV/88888888/224/3221225676/index.m3u8
 CCTV-9记录,http://111.40.196.35/PLTV/88888888/224/3221225502/index.m3u8
 CCTV-9记录,http://39.134.65.208/PLTV/88888888/224/3221225676/index.m3u8
+CCTV-10科教,http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000001000026367/1.m3u8?Contentid=1000000001000026367&livemode=1&stbId=3&channel-id=ystenlive  
 CCTV-10科教,http://111.20.33.93/PLTV/88888893/224/3221226189/index.m3u8
 CCTV-10科教,http://183.207.249.34/PLTV/4/224/3221227317/index.m3u8
 CCTV-10科教,http://183.207.249.7/PLTV/3/224/3221225550/index.m3u8
@@ -90,7 +101,9 @@ CCTV-10科教,http://183.207.249.8/PLTV/3/224/3221225550/index.m3u8
 CCTV-10科教,http://39.134.66.110/PLTV/88888888/224/3221225677/index.m3u8
 CCTV-10科教,http://39.134.66.66/PLTV/88888888/224/3221225677/index.m3u8
 CCTV-10科教,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/cctv10hd/4000000/mnf.m3u8
+CCTV-11戏曲,http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000002000019789/1.m3u8?Contentid=1000000002000019789&livemode=1&stbId=3&channel-id=ystenlive  
 CCTV-11戏曲,http://111.20.33.93/PLTV/88888893/224/3221226240/index.m3u8
+CCTV-12社会与法,http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000001000001640/1.m3u8?Contentid=1000000001000001640&livemode=1&stbId=3&channel-id=ystenlive
 CCTV-12社会与法,http://111.20.33.93/PLTV/88888893/224/3221226190/index.m3u8
 CCTV-12社会与法,http://183.207.249.7/PLTV/3/224/3221225556/index.m3u8
 CCTV-12社会与法,http://183.207.249.8/PLTV/3/224/3221225556/index.m3u8
@@ -585,8 +598,8 @@ tvb影视,http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw3279865
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8
 香港开电视,https://cdn.hklive.tv:443/xxxx/77/index.m3u8
-翡翠台,http://113.64.147.72:808/hls/67/index.m3u8
-翡翠台,http://113.64.147.73:808/hls/67/index.m3u8
+翡翠台,https://cdn.hklive.tv/xxxx/81/index.m3u8
+翡翠台,https://cdn.hklive.tv:443/xxxx/81/index.m3u8
 明珠台,http://120.84.96.195:808/hls/26/index.m3u8
 明珠台,https://cdn.hklive.tv:443/xxxx/84/index.m3u8
 明珠台,https://cdn.hklive.tv/xxxx/84b/index.m3u8$粤语声道
