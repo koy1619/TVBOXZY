@@ -4,6 +4,7 @@
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=Y2xhbjovL3R2Ym94L3R2L2xpdmUudHh0"]}]}],
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 "sites":[
+
 {"key": "T4","name": "T4网页","type": 4,"api": "https://t4.catvod.eu.org/catvod/gaze","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Kunyu77","name":"七七〔SP〕","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Lib","name":"LIBVIO〔SP〕","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
@@ -35,12 +36,12 @@
 {"key":"csp_Tkys","name":"天空(SP)","type":3,"api":"csp_Tkys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_xpath_88kanqiu","name":"88看球〔XP〕","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"clan://tvbox/MeowXP/88kanqiu.json"},
 {"key": "csp_xpath_jrskan","name": "JRKAN直播〔XPF〕","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "clan://tvbox/MeowXP/jrskan.json"},
-{"key":"csp_BBB","name":"️哔哩哔哩〔SP〕","type":3,"api":"csp_BBB","searchable":0,"quickSearch":0,"filterable":1},
+{"key":"csp_Bili","name":"哔哩套餐〔SP〕","type": 3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"clan://TVBox/MeowXB/哔哩哔哩.json"},
 {"key": "csp_Yj1211","name": "️直播合集〔SP〕","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "csp_Anime1","name": "小日本动漫","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "csp_Anime1","name": "小日本动漫〔SP〕","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"Nfyun","name":"Nf云〔SP〕","type":3,"api":"csp_Nfyun","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "bdys","name": "哔嘀(磁力测试)","type": 3,"api": "csp_XPbd","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "clan://tvbox/MeowXP/bdys.json"},
-{"key": "Gitcafe","name":"小纸条","type": 3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "3a49cf29cf20410997247c6eb4509be9"},
+{"key": "Gitcafe","name":"小纸条〔SP〕","type": 3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "3a49cf29cf20410997247c6eb4509be9"},
 {"key":"AliPS","name":"盘搜（仅搜索）","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext": "3a49cf29cf20410997247c6eb4509be9"},
 {"key":"FindZY","name":"找资源（仅搜索）","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext": "3a49cf29cf20410997247c6eb4509be9"},
 {"key":"csp_Yiso","name":"易搜（仅搜索）","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext":"3a49cf29cf20410997247c6eb4509be9"},

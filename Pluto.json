@@ -1,7 +1,7 @@
 //{"key":"key_〔资源名称〕","name":"资源名称","type":0,"api":"csp_〔jar内文件名称〕","searchable":1,"quickSearch":1,"filterable":0,"jar":"〔jar文件地址〕","ext":"〔txt json文件地址〕","playUrl":"〔播放解析地址〕","categories":["〔自定义资源列表〕","〔自定义资源列表〕"] },
 
 {"spider":"https://gitea.com/zhanghong/TVBOXZY/raw/branch/main/JAR/0822w.jar",
-"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vemhhbmdob25nL1RWQk9YWlkvcmF3L2JyYW5jaC9tYWluL1RWL2xpdmUudHh0"]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vemhhbmdob25nL1BsdXRvUGxheWVyL3Jhdy9icmFuY2gvbWFpbi9QbHV0b0xpdmUudHh0"]}]}],
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 "sites":[
 {"key": "T4","name": "T4网页","type": 4,"api": "https://t4.catvod.eu.org/catvod/gaze","searchable": 1,"quickSearch": 1,"filterable": 1},
@@ -31,7 +31,7 @@
 {"key":"csp_SP360","name":"360〔SP〕","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_Dy555","name":"555影院〔SP〕","type": 3,"api": "csp_Dy555","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_SP293","name":"293视频〔SP〕","type": 3,"api": "csp_SP293","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "csp_Yj1211","name": "直播合集〔SP〕","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "csp_Yj1211","name": "️直播合集〔SP〕","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_Anime1","name": "小日本动漫〔SP〕","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_xpath_88kanqiu","name":"88看球〔XP〕","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/zhanghong/TVBOXZY/raw/branch/main/XP/88kanqiu.json"},
 {"key": "csp_xpath_jrskan","name": "JRKAN直播〔XPF〕","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitea.com/zhanghong/TVBOXZY/raw/branch/main/XP/jrskan.json"},
