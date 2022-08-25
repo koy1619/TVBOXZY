@@ -35,7 +35,7 @@
 {"key": "csp_Anime1","name": "小日本动漫〔SP〕","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_xpath_88kanqiu","name":"88看球〔XP〕","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/zhanghong/TVBOXZY/raw/branch/main/XP/88kanqiu.json"},
 {"key": "csp_xpath_jrskan","name": "JRKAN直播〔XPF〕","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitea.com/zhanghong/TVBOXZY/raw/branch/main/XP/jrskan.json"},
-{"key":"csp_Bili","name":"哔哩套餐〔SP〕","type": 3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"clan://TVBox/MeowXB/哔哩哔哩.json"},
+{"key":"csp_Bili","name":"哔哩套餐〔SP〕","type": 3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/zhanghong/TVBOXZY/raw/branch/main/XB/哔哩哔哩.json"},
 {"key": "剧荒TV〔SP〕","name": "剧荒TV〔SP〕","type": 3,"api": "csp_Juhuang","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"Nfyun","name":"Nf云〔SP〕","type":3,"api":"csp_Nfyun","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "bdys","name": "哔嘀(磁力测试)","type": 3,"api": "csp_XPbd","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitea.com/zhanghong/TVBOXZY/raw/branch/main/XP/bdys.json"},
