@@ -1,23 +1,10 @@
 //{"key":"key_〔资源名称〕","name":"资源名称","type":0,"api":"csp_〔jar内文件名称〕","searchable":1,"quickSearch":1,"filterable":0,"jar":"〔jar文件地址〕","ext":"〔txt json文件地址〕","playUrl":"〔播放解析地址〕","categories":["〔自定义资源列表〕","〔自定义资源列表〕"] },
-//微信公众号【云星日记】制作分享
-//微信公众号【云星测评】制作分享
-//QQ频道搜索云星日记加入频道交流
-//关注公众号回复【菜单】获取在线接口
-//保存外链网址实时在线更新
-//直接把在线网址外链输入TvBox就可以同步更新
-//打造属于自己的app，请看下面微信公号文章链接
-//TvBox生成项目打包教程：https://mp.weixin.qq.com/s/FDa4OSDwHemy8uDyhn-1UQ
-//TVBox在线接口地址：https://mp.weixin.qq.com/s/uCipLSKxHvEdwKpIaQTFlw
-//云星旗下话费充值折扣公众号：【云优惠生活】
-//详情查看文章介绍：https://mp.weixin.qq.com/s/Bbm6mQtu_DjNJPXcXW0VOA
 
-{"spider":"https://raw.githubusercontents.com/zhanghong1983/TVBOXZY/main/JAR/0822w.jar",
-
+{"spider":"https://raw.githubusercontents.com/zhanghong1983/TVBOXZY/main/JAR/0822w.jar"
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnRzLmNvbS96aGFuZ2hvbmcxOTgzL1RWQk9YWlkvbWFpbi9UVi9UVi50eHQ="]}]}],
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 "sites":[
-{"key": "T4","name": "T4网页（公众号“云星日记”或“云星测评”）","type": 4,"api": "https://t4.catvod.eu.org/catvod/gaze","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key":"csp_Kunyu77","name":"酷云七七（回复“菜单”获取在线接口）","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Kunyu77","name":"酷云七七〔SP〕","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Lib","name":"LIBVIO〔SP〕","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_LiteApple","name":"小苹果〔SP〕","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"厂长影视","name":"厂长资源〔SP〕","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
