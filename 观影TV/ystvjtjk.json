@@ -1,17 +1,27 @@
 [
 {
-"url": "https://ghproxy.com/https://raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/%E8%A7%82%E5%BD%B1TV/githubtvboxjt.json",
-"title": "GITHUB线路",
+"url": "https://raw.fastgit.org/zhanghong1983/TVBOXZY/main/%E8%A7%82%E5%BD%B1TV/gfjt.json",
+"title": "家庭FASTGIT线路",
+"time": "2022-08-26 02:00:00"
+},
+{
+"url": "https://ghproxy.com/https://raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/%E8%A7%82%E5%BD%B1TV/proxyjt.json",
+"title": "家庭GHPROXY线路",
+"time": "2022-08-26 02:00:00"
+},
+{
+"url": "https://raw.githubusercontents.com/zhanghong1983/TVBOXZY/main/%E8%A7%82%E5%BD%B1TV/7edjt.json",
+"title": "家庭7ED线路",
 "time": "2022-08-26 02:00:00"
 },
 {
 "url": "https://gitee.com/zhanghong19830310/tv/raw/master/tv/giteetvbox.json",
-"title": "GITEE线路",
+"title": "家庭GITEE线路",
 "time": "2022-08-26 02:00:00"
 },
 {
 "url": "https://gitea.com/zhanghong/TVBOXZY/raw/branch/main/%E5%BD%B1%E8%A7%86TV/giteatvboxjt.json",
-"title": "GITEA线路",
+"title": "家庭GITEA线路",
 "time": "2022-08-26 02:00:00"
 },
 {
@@ -47,6 +57,11 @@
 {
 "url": "http://mtw.so/5AEgkc",
 "title": "houxian家庭版",
+"time": "2022-08-26 02:00:00"
+},
+{
+"url": "http://mtw.so/5PGEEm",
+"title": "houxian福利",
 "time": "2022-08-26 02:00:00"
 },
 {
