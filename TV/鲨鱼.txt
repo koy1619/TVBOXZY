@@ -81,7 +81,7 @@ CCTV-8电视剧,http://39.134.66.110/PLTV/88888888/224/3221225795/index.m3u8
 CCTV-8电视剧,http://39.136.48.21:8089/PLTV/88888888/224/3221225753/index.m3u8
 CCTV-8电视剧,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231694/index.m3u8
 CCTV-8电视剧,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/cctv8hd/4000000/mnf.m3u8
-CCTV-9记录,http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000001000014583/1.m3u8?Contentid=1000000001000014583&livemode=1&stbId=3&channel-id=ystenlive  
+CCTV-9纪录,http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000001000014583/1.m3u8?Contentid=1000000001000014583&livemode=1&stbId=3&channel-id=ystenlive  
 CCTV-9纪录,http://111.20.33.93/TVOD/88888893/224/3221226197/index.m3u8
 CCTV-9纪录,http://111.40.196.34/PLTV/88888888/224/3221225502/index.m3u8
 CCTV-9纪录,http://111.40.196.35/PLTV/88888888/224/3221225502/index.m3u8
@@ -91,8 +91,8 @@ CCTV-9纪录,http://183.207.249.14/PLTV/3/224/3221225532/index.m3u8
 CCTV-9纪录,http://183.207.249.6/PLTV/3/224/3221225532/index.m3u8
 CCTV-9纪录,http://39.134.65.208/PLTV/88888888/224/3221225676/index.m3u8
 CCTV-9纪录,http://39.134.66.110/PLTV/88888888/224/3221225676/index.m3u8
-CCTV-9记录,http://111.40.196.35/PLTV/88888888/224/3221225502/index.m3u8
-CCTV-9记录,http://39.134.65.208/PLTV/88888888/224/3221225676/index.m3u8
+CCTV-9纪录,http://111.40.196.35/PLTV/88888888/224/3221225502/index.m3u8
+CCTV-9纪录,http://39.134.65.208/PLTV/88888888/224/3221225676/index.m3u8
 CCTV-10科教,http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000001000026367/1.m3u8?Contentid=1000000001000026367&livemode=1&stbId=3&channel-id=ystenlive  
 CCTV-10科教,http://111.20.33.93/PLTV/88888893/224/3221226189/index.m3u8
 CCTV-10科教,http://183.207.249.34/PLTV/4/224/3221227317/index.m3u8
