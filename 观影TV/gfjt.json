@@ -45,7 +45,9 @@
 {"key":"AliPS","name":"盘搜（仅搜索）","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext": "3a49cf29cf20410997247c6eb4509be9"},
 {"key":"FindZY","name":"找资源（仅搜索）","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext": "3a49cf29cf20410997247c6eb4509be9"},
 {"key":"csp_Yiso","name":"易搜（仅搜索）","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext":"3a49cf29cf20410997247c6eb4509be9"},
+{"key":"mtv_pc_yinfans","name":"音范丝（蓝光磁力）","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/zhanghong1983/TVBOXZY/main/XP/yinfans.json"},
 {"key": "push_agent","name":"推送（阿里/磁力）","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext": "3a49cf29cf20410997247c6eb4509be9"},
+
 
 
 {"key":"APP影视〔官源指引〕","name":"↓APP影视〔官源指引〕↓","type":0,"api":"","searchable":0,"quickSearch":0,"filterable":0},
@@ -102,7 +104,7 @@
 {"key":"csp_appysv2_月儿影视","name":"月儿影视〔APP〕","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yue52.xyz/api.php/v1.vod"},
 {"key":"csp_appysv2_️瑞丰影视〔APP〕","name":"️瑞丰影视〔APP〕","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.204.249.135:4433/ruifenglb_api.php/v1.vod"},
 {"key":"csp_appysv2_QC影视〔APP〕","name":"QC影视〔APP〕","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.qcsvip.com/mogai_api.php/v1.vod"},
-{"key":"csp_AppYsV2","name":"优众影视〔APP〕","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.178:8090/xgapp.php/v2/"},
+{"key":"csp_AppYsV2","name":"优众影视〔APP〕","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.194:7878/xgapp.php/v2/"},
 
 
 {"key":"XP规则","name":"↓〔XP规则指引〕↓","type":0,"api":"","searchable":0,"quickSearch":0,"filterable":0},
