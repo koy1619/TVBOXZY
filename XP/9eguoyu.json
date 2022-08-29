@@ -1,5 +1,6 @@
 {
-  "author":"张弘20220725",
+  "author":"张弘",
+  "name":"9亿国语",
   "ua": "",
   "homeUrl": "http://www.9eguoyu.com/",
   "dcVipFlag": "true",
@@ -21,8 +22,8 @@
   "homeVodImg": "/@data-original",
   "homeVodImgR": "",
   "homeVodMark": "//span[contains(@class,'pic-text text-right')]/text()",
-  "cateUrl": "http://www.9eguoyu.com/vodshow/{cateId}/page/{catePg}.html",
-  "cateVodNode": "//li[@class='col-lg-8 col-md-6 col-sm-4 col-xs-3']/div/a",
+  "cateUrl": "http://www.9eguoyu.com/vodshow/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/letter/{letter}/year/{year}/page/{catePg}.html",
+"cateVodNode": "//li[@class='col-lg-8 col-md-6 col-sm-4 col-xs-3']/div/a",
   "cateVodName": "/@title",
   "cateVodId": "/@href",
   "cateVodIdR": "/voddetail/(\\w+).html",
@@ -209,9 +210,9 @@
           "name": "排序",
           "value": [
     {"n": "全部","v": ""},
-    {"n": "时间排序","v": "time"},
-    {"n": "人气排序","v": "hits"},
-    {"n": "评分排序","v": "score"}
+    {"n": "时间","v": "time"},
+    {"n": "人气","v": "hits"},
+    {"n": "评分","v": "score"}
           ]}
         ],
       "lianxuju":[
@@ -219,7 +220,7 @@
           "key": "cateId",
           "name": "类型",
           "value": [
-    {"n": "全部","v": ""},
+    {"n": "全部","v": "2"},
     {"n": "最近热播电视剧","v": "zuijinrebodianshiju"},
     {"n": "国语配音剧集","v": "guoyupeiyinhanju"},
     {"n": "热播美剧","v": "rebomeiju"},
@@ -356,9 +357,9 @@
           "name": "排序",
           "value": [
     {"n": "全部","v": ""},
-    {"n": "时间排序","v": "time"},
-    {"n": "人气排序","v": "hits"},
-    {"n": "评分排序","v": "score"}
+    {"n": "时间","v": "time"},
+    {"n": "人气","v": "hits"},
+    {"n": "评分","v": "score"}
           ]}
         ],
       "zongyi":[
@@ -366,7 +367,7 @@
           "key": "cateId",
           "name": "类型",
           "value": [
-    {"n": "全部","v": ""},
+    {"n": "全部","v": "3"},
     {"n": "纪录片","v": "jilupian"},
     {"n": "热门综艺","v": "remenzongyi"}
           ]},
@@ -476,9 +477,9 @@
           "name": "排序",
           "value": [
     {"n": "全部","v": ""},
-    {"n": "时间排序","v": "time"},
-    {"n": "人气排序","v": "hits"},
-    {"n": "评分排序","v": "score"}
+    {"n": "时间","v": "time"},
+    {"n": "人气","v": "hits"},
+    {"n": "评分","v": "score"}
           ]}
         ],
       "dongman":[
@@ -486,7 +487,7 @@
           "key": "cateId",
           "name": "类型",
           "value": [
-    {"n": "全部","v": ""},
+    {"n": "全部","v": "4"},
     {"n": "热播动漫","v": "rebodongman"},
     {"n": "国语配音动漫","v": "guoyupeiyindongman"}
           ]},
@@ -601,9 +602,9 @@
           "name": "排序",
           "value": [
     {"n": "全部","v": ""},
-    {"n": "时间排序","v": "time"},
-    {"n": "人气排序","v": "hits"},
-    {"n": "评分排序","v": "score"}
+    {"n": "时间","v": "time"},
+    {"n": "人气","v": "hits"},
+    {"n": "评分","v": "score"}
           ]}
         ],
       "jilupian":[
@@ -611,7 +612,7 @@
           "key": "class",
           "name": "剧情",
           "value": [
-    {"n": "全部","v": ""},
+    {"n": "全部","v": "3"},
     {"n": "人文历史","v": "人文历史"},
     {"n": "军事","v": "军事"},
     {"n": "探索","v": "探索"},
@@ -706,10 +707,10 @@
           "key": "by",
           "name": "排序",
           "value": [
-    {"n": "全部","v": ""},
-    {"n": "时间排序","v": "time"},
-    {"n": "人气排序","v": "hits"},
-    {"n": "评分排序","v": "score"}
+    {"n": "全部","v": "3"},
+    {"n": "时间","v": "time"},
+    {"n": "人气","v": "hits"},
+    {"n": "评分","v": "score"}
           ]}
       ]
     }
