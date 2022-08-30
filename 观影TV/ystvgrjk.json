@@ -1,72 +1,67 @@
 [
 {
 "url": "https://raw.fastgit.org/zhanghong1983/TVBOXZY/main/%E8%A7%82%E5%BD%B1TV/gfgr.json",
-"title": "个人FASTGIT线路",
+"title": "FASTGIT个人版线路",
 "time": "2022-08-26 02:00:00"
 },
 {
 "url": "https://ghproxy.com/https://raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/%E8%A7%82%E5%BD%B1TV/proxygr.json",
-"title": "个人GHPROXY线路",
+"title": "GHPROXY个人版线路",
 "time": "2022-08-26 02:00:00"
 },
 {
 "url": "https://raw.githubusercontents.com/zhanghong1983/TVBOXZY/main/%E8%A7%82%E5%BD%B1TV/7edgr.json",
-"title": "个人7ED线路",
+"title": "7ED个人版线路",
 "time": "2022-08-26 02:00:00"
 },
 {
 "url": "https://gitea.com/zhanghong/TVBOXZY/raw/branch/main/%E5%BD%B1%E8%A7%86TV/giteatvboxgr.json",
-"title": "个人GITEA线路",
+"title": "GITEA个人版线路",
 "time": "2022-08-26 02:00:00"
 },
 {
 "url": "https://raw.fastgit.org/zhanghong1983/TVBOXZY/main/%E8%A7%82%E5%BD%B1TV/gfjt.json",
-"title": "家庭FASTGIT线路",
+"title": "FASTGIT家庭版线路",
 "time": "2022-08-26 02:00:00"
 },
 {
 "url": "https://ghproxy.com/https://raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/%E8%A7%82%E5%BD%B1TV/proxyjt.json",
-"title": "家庭GHPROXY线路",
+"title": "GHPROXY家庭版线路",
 "time": "2022-08-26 02:00:00"
 },
 {
 "url": "https://raw.githubusercontents.com/zhanghong1983/TVBOXZY/main/%E8%A7%82%E5%BD%B1TV/7edjt.json",
-"title": "家庭7ED线路",
+"title": "7ED家庭版线路",
 "time": "2022-08-26 02:00:00"
 },
 {
 "url": "https://gitee.com/zhanghong19830310/tv/raw/master/tv/giteetvboxjt.json",
-"title": "家庭GITEE线路",
+"title": "GITEE家庭版线路",
 "time": "2022-08-26 02:00:00"
 },
 {
 "url": "https://gitea.com/zhanghong/TVBOXZY/raw/branch/main/%E5%BD%B1%E8%A7%86TV/giteatvboxjt.json",
-"title": "家庭GITEA线路",
+"title": "GITEA家庭版线路",
 "time": "2022-08-26 02:00:00"
 },
 {
 "url": "http://刚刚.live/猫.json",
-"title": "刚刚走过线路",
+"title": "刚刚家庭版线路",
 "time": "2022-08-26 02:00:00"
 },
 {
-"url": "http://mtw.so/6jLrAg",
-"title": "Yoursmile线路",
+"url": "https://gitea.com/Yoursmile/TVBox/raw/branch/main/XC.json",
+"title": "Yoursmile家庭版线路",
 "time": "2022-08-26 02:00:00"
 },
 {
 "url": "https://gitea.com/Mike906/jar/raw/branch/main/zzz.json",
-"title": "Mike906线路",
+"title": "Mike906家庭版线路",
 "time": "2022-08-26 02:00:00"
 },
 {
-"url": "https://gitea.com/Mike906/jar/raw/branch/main/18m.json",
-"title": "Mike96福利线路",
-"time": "2022-08-26 02:00:00"
-},
-{
-"url": "http://mtw.so/64J1GQ",
-"title": "老刘备线路",
+"url": "https://gitea.com/liucn/box/raw/branch/main/m.json",
+"title": "老刘备家庭版线路",
 "time": "2022-08-26 02:00:00"
 },
 {
@@ -85,23 +80,88 @@
 "time": "2022-08-26 02:00:00"
 },
 {
-"url": "http://mtw.so/5AEgkc",
+"url": "https://gitea.com/houxian/json/raw/branch/master/ts.json",
 "title": "houxian家庭版线路",
 "time": "2022-08-26 02:00:00"
 },
 {
-"url": "http://mtw.so/5PGEEm",
-"title": "houxian个人线路",
+"url": "https://gitea.com/suanjin/tv/raw/branch/master/main/0725.json",
+"title": "suanjin家庭版线路",
+"time": "2022-08-26 02:00:00"
+},
+{
+"url": "http://47.242.90.42:8888/down/BJZPa8THuiE9",
+"name": "星辰家庭版线路",
+"time": "2022-08-26 02:00:00"
+},
+{
+"url": "http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0",
+"name": "月光宝盒家庭版线路",
 "time": "2022-08-26 02:00:00"
 },
 {
 "url": "http://miaotvs.cn/osc",
-"title": "猫影视线路",
+"name": "猫影视家庭版线路",
 "time": "2022-08-26 02:00:00"
 },
 {
-"url": "http://mtw.so/6cfhxt",
-"title": "suanjin线路",
+"url": "https://share.nite07.com/api/v3/file/source/13485/0716.txt?sign=dxhV79Bv7z8Dc-UIC75rWZ50Z1qFYUJxqOwaBsKhKQU=:0",
+"name": "猫影视Pro版线路",
+"time": "2022-08-26 02:00:00"
+},
+{
+"url": "https://gitea.com/boxlive/box/raw/branch/main/jk/jgfx822.json",
+"name": "BOXLIVE家庭版线路",
+"time": "2022-08-26 02:00:00"
+},
+{
+"url": "https://box.okeybox.top/tv/uav0.json",
+"name": "okeybox家庭版线路",
+"time": "2022-08-26 02:00:00"
+},
+{
+"url": "https://gitea.com/sunkangfu/skf/raw/branch/main/sjz.json",
+"name": "sunkangfu家庭版线路",
+"time": "2022-08-26 02:00:00"
+},
+{
+"url": "http://mtv.weetai.cn/mtv/260.txt",
+"name": "weetai家庭版线路",
+"time": "2022-08-26 02:00:00"
+},
+{
+"url": "https://gitea.com/wlyzh88/0627/raw/branch/master/0627.json",
+"name": "wlyz88家庭版线路",
+"time": "2022-08-26 02:00:00"
+},
+{
+"url": "https://gitea.com/Mike906/jar/raw/branch/main/18m.json",
+"title": "Mike96福利版线路",
+"time": "2022-08-26 02:00:00"
+},
+{
+"url": "https://gitea.com/houxian/json/raw/branch/master/adult.json",
+"title": "houxian福利版线路",
+"time": "2022-08-26 02:00:00"
+},
+{
+"url": "http://52bsj.vip:81/api/v3/file/get/29908/18.json?sign=6dFDJtF30CNlCiznjsQmwbsUbxdtz9edLVjbDc5lC8E%3D%3A0",
+"name": "月光宝盒福利线路",
+"time": "2022-08-26 02:00:00"
+},
+{
+"url": "https://gitea.com/boxlive/box/raw/branch/main/jk/showboxv822.json",
+"name": "BOXLIVE福利版线路",
+"time": "2022-08-26 02:00:00"
+},
+{
+"url": "http://152.136.125.181:81/MM/dianbos/yeshijieC.json",
+"name": "yeshijie福利版线路.json",
+"time": "2022-08-26 02:00:00"
+},
+{
+"url": "https://gitea.com/wlyzh88/FL/raw/branch/master/FL.json",
+"name": "wlyz88福利线路",
 "time": "2022-08-26 02:00:00"
 }
 ]
