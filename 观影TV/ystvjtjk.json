@@ -39,6 +39,7 @@
 "title": "Mike906家庭版线路",
 "time": "2022-08-26 02:00:00"
 },
+
 {
 "url": "https://gitea.com/liucn/box/raw/branch/main/m.json",
 "title": "老刘备家庭版线路",
@@ -71,48 +72,47 @@
 },
 {
 "url": "http://47.242.90.42:8888/down/BJZPa8THuiE9",
-"name": "星辰家庭版线路",
+"title": "星辰家庭版线路",
 "time": "2022-08-26 02:00:00"
 },
 {
 "url": "http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0",
-"name": "月光宝盒家庭版线路",
+"title": "月光宝盒家庭版线路",
 "time": "2022-08-26 02:00:00"
 },
 {
 "url": "http://miaotvs.cn/osc",
-"name": "猫影视家庭版线路",
+"title": "猫影视家庭版线路",
 "time": "2022-08-26 02:00:00"
 },
 {
 "url": "https://share.nite07.com/api/v3/file/source/13485/0716.txt?sign=dxhV79Bv7z8Dc-UIC75rWZ50Z1qFYUJxqOwaBsKhKQU=:0",
-"name": "猫影视Pro版线路",
+"title": "猫影视Pro版线路",
 "time": "2022-08-26 02:00:00"
 },
 {
 "url": "https://gitea.com/boxlive/box/raw/branch/main/jk/jgfx822.json",
-"name": "BOXLIVE家庭版线路",
+"title": "BOXLIVE家庭版线路",
 "time": "2022-08-26 02:00:00"
 },
 {
 "url": "https://box.okeybox.top/tv/uav0.json",
-"name": "okeybox家庭版线路",
+"title": "okeybox家庭版线路",
 "time": "2022-08-26 02:00:00"
 },
 {
 "url": "https://gitea.com/sunkangfu/skf/raw/branch/main/sjz.json",
-"name": "sunkangfu家庭版线路",
-"time": "2022-08-26 02:00:00"
-},
-{
-"url": "https://gitea.com/wlyzh88/0627/raw/branch/master/0627.json",
-"name": "wlyz88家庭版线路",
+"title": "sunkangfu家庭版线路",
 "time": "2022-08-26 02:00:00"
 },
 {
 "url": "http://mtv.weetai.cn/mtv/260.txt",
-"name": "weetai家庭版线路",
+"title": "weetai家庭版线路",
+"time": "2022-08-26 02:00:00"
+},
+{
+"url": "https://gitea.com/wlyzh88/0627/raw/branch/master/0627.json",
+"title": "wlyz88家庭版线路",
 "time": "2022-08-26 02:00:00"
 }
-
 ]
