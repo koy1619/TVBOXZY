@@ -1,0 +1,97 @@
+{
+"urls": [
+{
+"url": "https://raw.fastgit.org/zhanghong1983/TVBOXZY/main/%E8%A7%82%E5%BD%B1TV/gfgr.json",
+"name": "FASTGIT个人版线路"
+},
+{
+"url":"https://ghproxy.com/https://raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/%E8%A7%82%E5%BD%B1TV/proxygr.json",
+"name": "GHPROXY个人版线路"},
+{
+"url": "https://raw.githubusercontents.com/zhanghong1983/TVBOXZY/main/%E8%A7%82%E5%BD%B1TV/7edgr.json",
+"name": "7ED个人版线路"
+},
+{
+"url": "https://gitea.com/zhanghong/TVBOXZY/raw/branch/main/%E5%BD%B1%E8%A7%86TV/giteatvboxgr.json",
+"name": "GITEA个人版线路"
+},
+{
+"url": "https://gitea.com/houxian/json/raw/branch/master/adult.json",
+"name": "houxian福利版线路"
+},
+{
+"url": "http://刚刚.live/猫",
+"name": "刚刚家庭版线路"
+},
+{
+"url": "http://miaotvs.cn/osc",
+"name": "太阳视界家庭版线路"
+},
+{
+"url": "https://gitea.com/33/3/raw/branch/3/3/1",
+"name": "白嫖影视家庭版线路"
+},
+{
+"url": "https://gitea.com/boxlive/box/raw/branch/main/jk/jgfx822.json",
+"name": "ShowBox家庭版线路"
+},
+{
+"url": "https://gitea.com/Yoursmile/TVBox/raw/branch/main/XC.json",
+"name": "Yoursmile家庭版线路"
+},
+{
+"url": "https://gitea.com/Mike906/jar/raw/branch/main/zzz.json",
+"name": "Mike906家庭版线路"
+},
+{
+"url": "https://gitea.com/liucn/box/raw/branch/main/m.json",
+"name": "老刘备家庭版线路"
+},
+{
+"url": "http://120.53.102.254/tvb",
+"name": "懒人家庭版线路"
+},
+{
+"url": "http://maoyingshi.cc/tvbox/云星日记/1.m3u8",
+"name": "〔云星日记〕家庭版线路"
+},
+{
+"url": "http://maoyingshi.cc/tvbox/云星日记/bili.json",
+"name": "〔云星日记〕哔哩套餐线路"
+},
+{
+"url": "https://gitea.com/houxian/json/raw/branch/master/ts.json",
+"name": "houxian家庭版线路"
+},
+{
+"url": "https://gitea.com/suanjin/tv/raw/branch/master/main/0725.json",
+"name": "suanjin家庭版线路"
+},
+{
+"url": "http://47.242.90.42:8888/down/BJZPa8THuiE9",
+"name": "星辰家庭版线路"
+},
+{
+"url": "http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0",
+"name": "月光宝盒家庭版线路"
+},
+{
+"url": "https://share.nite07.com/api/v3/file/source/13485/0716.txt?sign=dxhV79Bv7z8Dc-UIC75rWZ50Z1qFYUJxqOwaBsKhKQU=:0",
+"name": "猫影视Pro版线路"
+},
+{
+"url": "https://box.okeybox.top/tv/uav0.json",
+"name": "okeybox家庭版线路"
+},
+{
+"url": "https://gitea.com/sunkangfu/skf/raw/branch/main/sjz.json",
+"name": "sunkangfu家庭版线路"
+}
+],
+"vip": [
+{
+"url": "https://raw.fastgit.org/zhanghong1983/TVBOXZY/main/%E8%A7%82%E5%BD%B1TV/gfgr.json",
+"name": "聚合影视"
+}
+]
+}
