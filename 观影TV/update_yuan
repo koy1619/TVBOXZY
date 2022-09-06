@@ -6,10 +6,7 @@
 },
 {
 "url":"https://ghproxy.com/https://raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/%E8%A7%82%E5%BD%B1TV/proxygr.json",
-"name": "GHPROXY个人版线路"},
-{
-"url": "https://raw.githubusercontents.com/zhanghong1983/TVBOXZY/main/%E8%A7%82%E5%BD%B1TV/7edgr.json",
-"name": "7ED个人版线路"
+"name": "GHPROXY个人版线路"
 },
 {
 "url": "https://gitea.com/zhanghong/TVBOXZY/raw/branch/main/%E5%BD%B1%E8%A7%86TV/giteatvboxgr.json",
