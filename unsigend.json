@@ -8,8 +8,31 @@
 {
 "ext": "https://raw.fastgit.org/zhanghong1983/TVBOXZY/main/%E8%A7%82%E5%BD%B1TV/gfjt.json",
 "date":"2022-09-06 12:17:00",
-"key":"家庭版线路",
-"name":"家庭版线路"
+"key":"FASTEIT家庭版线路",
+"name":"FASTEIT家庭版线路"
+},
+{
+"ext": "https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/%E8%A7%82%E5%BD%B1TV/gfjt.json",
+"date":"2022-09-06 12:17:00",
+"key":"IQIQ家庭版线路",
+"name":"IQIQ家庭版线路"
+},
+{
+"ext":"https://ghproxy.com/https://raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/%E8%A7%82%E5%BD%B1TV/proxyjt.json",
+"date":"2022-09-06 12:17:00",
+"key":"GHPROXY家庭版线路",
+"name":"GHPROXY家庭版线路"},
+{
+"ext":"https://gitee.com/zhanghong19830310/tv/raw/master/tv/giteetvboxjt.json",
+"date":"2022-09-06 12:17:00",
+"key":"GITEE家庭版线路",
+"name":"GITEE家庭版线路"
+},
+{
+"ext":"https://gitea.com/zhanghong/TVBOXZY/raw/branch/main/%E5%BD%B1%E8%A7%86TV/giteatvboxjt.json",
+"date":"2022-09-06 12:17:00",
+"key":"GITEA家庭版线路",
+"name":"GITEA家庭版线路"
 },
 {
 "ext": "http://52bsj.vip:98/wuai",
