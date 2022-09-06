@@ -1,6 +1,10 @@
 {
 "urls": [
 {
+"url": "https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/%E8%A7%82%E5%BD%B1TV/iqiqgr.json",
+"name": "IQIQ个人线路"
+},
+{
 "url": "https://raw.fastgit.org/zhanghong1983/TVBOXZY/main/%E8%A7%82%E5%BD%B1TV/gfgr.json",
 "name": "FASTGIT个人版线路"
 },
