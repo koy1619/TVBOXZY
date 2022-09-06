@@ -12,12 +12,6 @@
 "name":"家庭版线路"
 },
 {
-"ext": "https://gh.api.99988866.xyz/https://raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/%E8%A7%82%E5%BD%B1TV/hunjt.json",
-"date":"2022-09-06 12:17:00",
-"key":"家庭版副线",
-"name":"家庭版副线"
-},
-{
 "ext": "http://52bsj.vip:98/wuai",
 "date":"2022-09-06 12:17:00",
 "key":"吾爱️线路",
@@ -54,16 +48,10 @@
 "name":"老刘备家庭版线路"
 },
 {
-"ext": "https://cdn.staticaly.com/gh/liu673cn/box/main/m.json",
+"ext": "https://ghproxy.com/https://raw.githubusercontent.com/liu673cn/box/main/m.json",
 "date":"2022-09-06 12:17:00",
 "key":"老刘备家庭版副线",
 "name":"老刘备家庭版副线"
-},
-{
-"ext": "https://ghproxy.com/https://raw.githubusercontent.com/liu673cn/box/main/m.json",
-"date":"2022-09-06 12:17:00",
-"key":"老刘备家庭版副线二",
-"name":"老刘备家庭版副线二"
 },
 {
 "ext": "http://js.134584.xyz/json/pp87.json",
