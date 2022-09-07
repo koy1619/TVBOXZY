@@ -1,16 +1,12 @@
-【空中课堂】,#genre#
-一年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkyinj/1300000/mnf.m3u8
-二年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkernj/1300000/mnf.m3u8
-三年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kksannj/1300000/mnf.m3u8
-四年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kksinj/1300000/mnf.m3u8
-五年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkwunj/1300000/mnf.m3u8
-六年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkliunj/1300000/mnf.m3u8
-初一年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkqinj/1300000/mnf.m3u8
-初二年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkbanj/1300000/mnf.m3u8
-初三年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkjiunj/1300000/mnf.m3u8
-高一年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkgaoyinj/1300000/mnf.m3u8
-高二年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkgaoernj/1300000/mnf.m3u8
-高三年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkgaosannj/1300000/mnf.m3u8
+【MYCAMTV】,#genre#
+TUTU-new,https://b-hls-18.doppiocdn.com/hls/87919338/87919338.m3u8$TUTU-new#https://b-hls-18.doppiocdn.com/hls/87919338/87919338_480p.m3u8$TUTU 480p#https://b-hls-06.doppiocdn.com/hls/87919338/master/87919338_auto.m3u8$TUTU-new auto
+reviewl,https://b-hls-05.doppiocdn.com/hls/78659813/78659813.m3u8$reviewl#https://b-hls-05.doppiocdn.com/hls/78659813/78659813_480p.m3u8$reviewl 480p
+zhoukarina,https://b-hls-20.doppiocdn.com/hls/76414422/76414422.m3u8$zhoukarina#https://b-hls-20.doppiocdn.com/hls/76414422/76414422_480p.m3u8$zhoukarina 480p#https://b-hls-24.doppiocdn.com/hls/76414422/master/76414422_auto.m3u8$zhoukarina auto
+TT-Faye,https://b-hls-03.doppiocdn.com/hls/71164333/71164333.m3u8$TT-Faye#https://b-hls-03.doppiocdn.com/hls/71164333/71164333_720p.m3u8$TT-Faye 720p#https://b-hls-03.doppiocdn.com/hls/71164333/71164333_480p.m3u8$TT-Faye 480p#https://b-hls-19.doppiocdn.com/hls/71164333/master/71164333_auto.m3u8$TT-Faye auto
+BadAngels666,https://b-hls-24.doppiocdn.com/hls/72074659/72074659.m3u8$BadAngels666#https://b-hls-24.doppiocdn.com/hls/72074659/72074659_480p.m3u8$BadAngels666 480p#https://b-hls-18.doppiocdn.com/hls/72074659/master/72074659_auto.m3u8$BadAngels666 auto
+Unababy,https://b-hls-05.doppiocdn.com/hls/55446824/55446824.m3u8$Unababy#https://b-hls-05.doppiocdn.com/hls/55446824/55446824_480p.m3u8$Unababy 408p#https://b-hls-07.doppiocdn.com/hls/55446824/master/55446824_auto.m3u8$Unababy auto
+Anime-XiaoRuan,https://b-hls-11.doppiocdn.com/hls/87165115/87165115.m3u8$Anime-XiaoRuan#https://b-hls-11.doppiocdn.com/hls/87165115/87165115_480p.m3u8$Anime-XiaoRuan 480p#https://b-hls-17.doppiocdn.com/hls/87165115/master/87165115_auto.m3u8$Anime-XiaoRuan auto
+Vivian2022666,https://b-hls-24.doppiocdn.com/hls/82251208/82251208.m3u8$Vivian2022666#https://b-hls-03.doppiocdn.com/hls/82251208/master/82251208_auto.m3u8$Vivian2022666 auto
 【央视频道】,#genre#
 CCTV-1综合,http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000001000021973/1.m3u8?Contentid=1000000001000021973&livemode=1&stbId=3&channel-id=ystenlive
 CCTV-1综合,http://111.20.33.93/PLTV/88888893/224/3221226010/index.m3u8
@@ -630,6 +626,20 @@ CCTV17,http://39.134.65.181/PLTV/88888888/224/3221225708/index.m3u8
 CCTV17,http://39.134.65.183/PLTV/88888888/224/3221225708/index.m3u8
 
 
+【空中课堂】,#genre#
+一年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkyinj/1300000/mnf.m3u8
+二年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkernj/1300000/mnf.m3u8
+三年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kksannj/1300000/mnf.m3u8
+四年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kksinj/1300000/mnf.m3u8
+五年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkwunj/1300000/mnf.m3u8
+六年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkliunj/1300000/mnf.m3u8
+初一年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkqinj/1300000/mnf.m3u8
+初二年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkbanj/1300000/mnf.m3u8
+初三年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkjiunj/1300000/mnf.m3u8
+高一年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkgaoyinj/1300000/mnf.m3u8
+高二年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkgaoernj/1300000/mnf.m3u8
+高三年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkgaosannj/1300000/mnf.m3u8
+
 
 【4K超清】,#genre#
 CCTV-16奥林匹克,http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
@@ -642,10 +652,6 @@ CCTV-8K,http://hms2864nc1972666629.live.aikan.miguvideo.com/wh7f454c46tw12828840
 李子柒4K,http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
 Clarity4K,https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
 LoveNature4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-
-
-
-TVB经典功夫,https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8
 
 
 
@@ -2384,6 +2390,123 @@ Teen,http://live.redtraffic.xyz:80/teen.m3u8
 Threesome,http://live.redtraffic.xyz/threesome.m3u8
 Threesome,http://cdn.adultiptv.net/threesome.m3u8
 Threesome,http://live.redtraffic.xyz:80/threesome.m3u8
+
+【日本秒播】,#genre#
+日本秒播1,https://v9.microclassonline.com/20220722/9vucLIJR/index.m3u8
+日本秒播2,https://v9.microclassonline.com/20220627/dOoXu3t6/index.m3u8
+日本秒播3,https://v9.microclassonline.com/20220710/hEddgRFa/index.m3u8
+日本秒播4,https://v9.microclassonline.com/20220702/9d7fz9yy/index.m3u8
+日本秒播5,https://v9.microclassonline.com/20220608/0yHNXx4d/index.m3u8
+日本秒播6,https://v9.microclassonline.com/20220530/FjP5N3Ye/index.m3u8
+日本秒播7,https://v9.microclassonline.com/20220522/5XPgv3p4/index.m3u8
+日本秒播8,https://v9.microclassonline.com/20220504/tYjmgGb1/index.m3u8
+日本秒播9,https://v9.microclassonline.com/20220429/VWkp7tb4/index.m3u8
+日本秒播10,https://v9.microclassonline.com/20220302/08GjB9IY/index.m3u8
+日本秒播11,https://v9.microclassonline.com/20220724/zovDxRw2/index.m3u8
+日本秒播12,https://v9.microclassonline.com/20220726/Ql6PS69p/index.m3u8
+日本秒播13,https://v9.microclassonline.com/20220719/6MYUt4gd/index.m3u8
+日本秒播14,https://v9.microclassonline.com/20220714/HXwz9wlV/index.m3u8
+日本秒播15,https://v9.microclassonline.com/20220708/nqGboUPK/index.m3u8
+日本秒播16,https://v9.microclassonline.com/20220708/a7c8eGjN/index.m3u8
+日本秒播17,https://v9.microclassonline.com/20220630/hz83yWsW/index.m3u8
+日本秒播18,https://v9.microclassonline.com/20220630/OYnsnPKG/index.m3u8
+日本秒播19,https://v9.microclassonline.com/20220617/Rdki83ae/index.m3u8
+国外秒播1,https://v9.microclassonline.com/20220701/OJh4diO9/index.m3u8
+国外秒播2,https://v9.microclassonline.com/20220707/E7Ggbnka/index.m3u8
+国外秒播3,https://v9.microclassonline.com/20220712/L5ROx815/index.m3u8
+国外秒播4,https://v9.microclassonline.com/20220718/VSAlJ8LD/index.m3u8
+国外秒播5,https://v9.microclassonline.com/20220730/tF3Yw6R3/index.m3u8
+国外秒播6,https://v9.microclassonline.com/20220818/Wsvvnfr9/index.m3u8
+
+
+
+【柚子猫】,#genre#
+【柚子猫】1,https://v9.microclassonline.com/20220606/a5Zu4C1x/index.m3u8
+【柚子猫】2,https://v9.microclassonline.com/20220531/iTYVhhnE/index.m3u8
+【柚子猫】3,https://v9.microclassonline.com/20220528/ZFMbgNDB/index.m3u8
+【柚子猫】4,https://v9.microclassonline.com/20220515/T18ZN2mQ/index.m3u8
+【柚子猫】5,https://v9.microclassonline.com/20220404/yzwnAsGp/index.m3u8
+【柚子猫】6,https://v9.microclassonline.com/20220327/NF2iC97e/index.m3u8
+【柚子猫】7,https://v9.microclassonline.com/20220316/OM3IIShj/index.m3u8
+【柚子猫】8,https://v9.microclassonline.com/20220316/Q82TehQ8/index.m3u8
+【柚子猫】9,https://v9.microclassonline.com/20220216/cVQhPahk/index.m3u8
+【柚子猫】10,https://v9.microclassonline.com/20220131/EEmkTnvH/index.m3u8
+【柚子猫】11,https://v9.microclassonline.com/20220111/OjT7NCH9/index.m3u8
+【柚子猫】12,https://v9.microclassonline.com/20220104/ilXcwVUa/index.m3u8
+【柚子猫】13,https://v9.microclassonline.com/20211224/Nj1SM77a/index.m3u8
+【柚子猫】14,https://v9.microclassonline.com/20211208/ROTQssmf/index.m3u8
+【柚子猫】15,https://v9.microclassonline.com/20211208/WHt9WzFn/index.m3u8
+【柚子猫】16,https://v9.microclassonline.com/20211111/tqWt8n0O/index.m3u8
+【柚子猫】17,https://v9.microclassonline.com/20211002/5dpREb2o/index.m3u8
+【柚子猫】18,https://v9.microclassonline.com/20210930/4adcXoq5/index.m3u8
+【柚子猫】19,https://v9.microclassonline.com/20210921/X1af9Mzz/index.m3u8
+【柚子猫】20,https://v9.microclassonline.com/20210921/pDXybSCr/index.m3u8
+【柚子猫】21,https://v9.microclassonline.com/20210905/cmF8dgge/index.m3u8
+【柚子猫】22,https://v9.microclassonline.com/20210829/0zlOVxQr/index.m3u8
+【柚子猫】23,https://v9.microclassonline.com/20210820/O2Q7z4zj/index.m3u8
+【柚子猫】24,https://v9.microclassonline.com/20210802/XqcPv6XG/index.m3u8
+【柚子猫】25,https://v9.microclassonline.com/20210726/yDdqJSNE/index.m3u8
+【柚子猫】26,https://v9.microclassonline.com/20210719/zQ43suyy/index.m3u8
+【柚子猫】27,https://v9.microclassonline.com/20210717/jb8THZNr/index.m3u8
+【柚子猫】28,https://v9.microclassonline.com/20210409/cQKCKKQ9/index.m3u8
+【柚子猫】29,https://v9.microclassonline.com/20210711/jOfgIhyQ/index.m3u8
+【柚子猫】30,https://v9.microclassonline.com/20210716/hXesoADQ/index.m3u8
+
+
+
+
+【高清秒播】,#genre#
+高清秒播1,https://v9.microclassonline.com/20220309/c1NwUvji/index.m3u8
+高清秒播2,https://v9.microclassonline.com/20220309/4Acb0ay4/index.m3u8
+高清秒播3,https://v9.microclassonline.com/20220220/xDt0gAPk/index.m3u8
+高清秒播4,https://v9.microclassonline.com/20220302/aHsBYflX/index.m3u8
+高清秒播5,https://v9.microclassonline.com/20220219/0n6WcEbO/index.m3u8
+高清秒播6,https://v9.microclassonline.com/20220225/aoAtfjhM/index.m3u8
+高清秒播7,https://v9.microclassonline.com/20220221/u4R5Xxis/index.m3u8
+高清秒播8,https://v9.microclassonline.com/20220209/KgAVkf8v/index.m3u8
+高清秒播9,https://v9.microclassonline.com/20220204/NyWQkNPL/index.m3u8
+高清秒播10,https://v9.microclassonline.com/20211227/bD8rrCd5/index.m3u8
+高清秒播11,https://v9.microclassonline.com/20211203/MYhpLiCb/index.m3u8
+高清秒播12,https://v9.microclassonline.com/20211101/4ytM9axd/index.m3u8
+高清秒播13,https://v9.microclassonline.com/20211109/ILhYTFSc/index.m3u8
+高清秒播14,https://v9.microclassonline.com/20211107/gclUTX59/index.m3u8
+高清秒播15,https://v9.microclassonline.com/20211102/ASgkjGy0/index.m3u8
+高清秒播16,https://v9.microclassonline.com/20211025/SNEk4Qvp/index.m3u8
+高清秒播17,https://v9.microclassonline.com/20211013/NGkClllU/index.m3u8
+高清秒播18,https://v9.microclassonline.com/20220824/g70W8EaS/index.m3u8
+高清秒播19,https://v9.microclassonline.com/20220824/7FBebIyi/index.m3u8
+高清秒播20,https://v9.microclassonline.com/20220823/uHRTMOCS/index.m3u8
+高清秒播21,https://v9.microclassonline.com/20220823/08ksUbnl/index.m3u8
+高清秒播22,https://v9.microclassonline.com/20220823/M7U7ODp6/index.m3u8
+高清秒播23,https://v9.microclassonline.com/20220823/1M3BqrsA/index.m3u8
+高清秒播24,https://v9.microclassonline.com/20220817/Jqnadx8p/index.m3u8
+高清秒播25,https://v9.microclassonline.com/20220824/9j9nR9oq/index.m3u8
+高清秒播26,https://v9.microclassonline.com/20220626/3WBsxywP/index.m3u8
+高清秒播27,https://v9.microclassonline.com/20220625/ug9XXzDX/index.m3u8
+高清秒播28,https://v9.microclassonline.com/20220625/H3iQmtDp/index.m3u8
+高清秒播29,https://v9.microclassonline.com/20220523/u8Rj51NP/index.m3u8
+高清秒播30,https://v9.microclassonline.com/20220216/FMZKleji/index.m3u8
+高清秒播31,https://v9.microclassonline.com/20220216/IKLJqM1H/index.m3u8
+高清秒播32,https://v9.microclassonline.com/20220114/afnPXlB4/index.m3u8
+高清秒播33,https://v9.microclassonline.com/20220823/zZK5hf5L/index.m3u8
+高清秒播34,https://v9.microclassonline.com/20220823/GFhd90vv/index.m3u8
+高清秒播35,https://v9.microclassonline.com/20220819/xk8jsitv/index.m3u8
+高清秒播36,https://v9.microclassonline.com/20220820/RvvcpUEX/index.m3u8
+高清秒播37,https://v9.microclassonline.com/20220814/744nKxwo/index.m3u8
+高清秒播38,https://v9.microclassonline.com/20220716/tg4TNzri/index.m3u8
+高清秒播39,https://v9.microclassonline.com/20220622/bc8Poqns/index.m3u8
+高清秒播40,https://v9.microclassonline.com/20220618/zRmN7C95/index.m3u8
+高清秒播41,https://v9.microclassonline.com/20220616/fhn09BMd/index.m3u8
+高清秒播42,https://v9.microclassonline.com/20220615/7YyxYD3J/index.m3u8
+高清秒播43,https://v9.microclassonline.com/20220611/d5XzEJAB/index.m3u8
+高清秒播44,https://v9.microclassonline.com/20220611/SU7KLZff/index.m3u8
+高清秒播45,https://v9.microclassonline.com/20220518/nAf0QCHC/index.m3u8
+高清秒播46,https://v9.microclassonline.com/20220517/VnzDR2Uu/index.m3u8
+高清秒播47,https://v9.microclassonline.com/20220513/b9x5MyGu/index.m3u8
+高清秒播48,https://v9.microclassonline.com/20220327/FQGavSbL/index.m3u8
+高清秒播49,https://v9.microclassonline.com/20220402/D0laxOov/index.m3u8
+高清秒播50,https://v9.microclassonline.com/20220203/VId1BZJ1/index.m3u8
+高清秒播51,https://v9.microclassonline.com/20220203/yCxdmExD/index.m3u8
 
 
 
