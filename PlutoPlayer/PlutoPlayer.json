@@ -1,12 +1,11 @@
 //{"key":"key_〔资源名称〕","name":"资源名称","type":0,"api":"csp_〔jar内文件名称〕","searchable":1,"quickSearch":1,"filterable":0,"jar":"〔jar文件地址〕","ext":"〔txt json文件地址〕","playUrl":"〔播放解析地址〕","categories":["〔自定义官源资源列表〕","〔自定义官源资源列表〕"] },
 
-{"spider":"https://raw.fastgit.org/zhanghong1983/TVBOXZY/main/JAR/0822w.jar",
+{"spider":"https://raw.fastgit.org/zhanghong1983/TVBOXZY/main/JAR/0906.jar",
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZmFzdGdpdC5vcmcvemhhbmdob25nMTk4My9UVkJPWFpZL21haW4vUGx1dG9QbGF5ZXIvUGx1dG9QbGF5ZXJMaXZlLnR4dA=="]}]}],
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 "sites":[
 
 
-//{"key":"t4public","name":"T4公共","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=阿里token&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_Kunyu77","name":"酷云七七〔SP〕","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Lib","name":"LIBVIO〔SP〕","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_LiteApple","name":"小苹果〔SP〕","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
@@ -152,17 +151,7 @@
 {"key": "csp_xpath_17skr","name": "路漫漫动漫(XP)","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.fastgit.org/zhanghong1983/TVBOXZY/main/XP/17skr.json"},
 
 
-{"key":"QXB规则","name":"↓〔QXB新规则指引〕↓","type":0,"api":"","searchable":0,"quickSearch":0,"filterable":0},
 
-
-{"key":"csp_QXBiubiu_555电影","name":"555电影(QXB)","type":3,"api":"csp_QXBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/zhanghong1983/TVBOXZY/main/QXB/555电影.json"},
-{"key":"csp_QXBiubiu_影视工厂","name":"影视工厂(QXB)","type":3,"api":"csp_QXBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/zhanghong1983/TVBOXZY/main/QXB/影视工厂.json"},
-{"key":"csp_QXBiubiu_剧白白","name":"剧白白(QXB)","type":3,"api":"csp_QXBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/zhanghong1983/TVBOXZY/main/QXB/剧白白.json"},
-{"key":"csp_QXBiubiu_600影视","name":"600影视(QXB)","type":3,"api":"csp_QXBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/zhanghong1983/TVBOXZY/main/QXB/600影视.json"},
-{"key":"csp_QXBiubiu_小强迷","name":"小强迷(QXB)","type":3,"api":"csp_QXBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/zhanghong1983/TVBOXZY/main/QXB/小强迷.json"},
-{"key":"csp_QXBiubiu_歪片星球","name":"歪片星球(QXB)️","type":3,"api":"csp_QXBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/zhanghong1983/TVBOXZY/main/QXB/歪片星球.json"},
-{"key":"csp_QXBiubiu_蚂蚁4K","name":"蚂蚁4K(QXB)️","type":3,"api":"csp_QXBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/zhanghong1983/TVBOXZY/main/QXB/蚂蚁4K.json"},
-{"key":"csp_QXBiubiu_80S磁力","name":"80S磁力(需要外置MX播放器QXB)","type":3,"api":"csp_QXBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/zhanghong1983/TVBOXZY/main/QXB/80S磁力.json"},
 
 
 {"key":"XYQB规则","name":"↓〔XYQB新规则指引〕↓","type":0,"api":"","searchable":0,"quickSearch":0,"filterable":0},
@@ -180,7 +169,12 @@
 
 {"key":"XB规则","name":"↓〔XB规则指引〕↓","type":0,"api":"","searchable":0,"quickSearch":0,"filterable":0},
 
-
+{"key":"csp_XBiubiu_555电影","name":"555电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/zhanghong1983/TVBOXZY/main/XB/555电影.json"},
+{"key":"csp_XBiubiu_影视工厂","name":"影视工厂(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/zhanghong1983/TVBOXZY/main/XB/影视工厂.json"},
+{"key":"csp_XBiubiu_剧白白","name":"剧白白(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/zhanghong1983/TVBOXZY/main/XB/剧白白.json"},
+{"key":"csp_XBiubiu_600影视","name":"600影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/zhanghong1983/TVBOXZY/main/XB/600影视.json"},
+{"key":"csp_XBiubiu_小强迷","name":"小强迷(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/zhanghong1983/TVBOXZY/main/XB/小强迷.json"},
+{"key":"csp_XBiubiu_歪片星球","name":"歪片星球(XB)️","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/zhanghong1983/TVBOXZY/main/XB/歪片星球.json"},
 {"key":"csp_biubiu_voflixHD","name":"voflix HD(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/zhanghong1983/TVBOXZY/main/XB/voflixHD.json"},
 {"key":"csp_biubiu_黑狐影院","name":"黑狐影院(XB)️","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/zhanghong1983/TVBOXZY/main/XB/黑狐影院.json"},
 {"key":"csp_biubiu_真不卡影院","name":"真不卡影院(XB)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.fastgit.org/zhanghong1983/TVBOXZY/main/XB/真不卡影院.json"},
