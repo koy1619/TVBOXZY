@@ -4,7 +4,7 @@
 {"spider":"https://raw.fastgit.org/zhanghong1983/TVBOXZY/main/JAR/0906.jar",
 
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZmFzdGdpdC5vcmcvemhhbmdob25nMTk4My9UVkJPWFpZL21haW4vVFYvVFYudHh0"]}]}],
-"wallpaper":"http://diyp.112114.xyz/",
+"wallpaper":"http://maoyingshi.cc/api.php",
 "sites":[
 
 {"key":"csp_AppTT","name":"图图影视〔SP〕","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},
