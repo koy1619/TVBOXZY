@@ -87,7 +87,7 @@
 "filterable":1,
 "ext":"https://gitee.com/zhanghong19830310/tv/raw/master/PyramidStore/plugin/py_bilimd.py"
 },
-{
+//{
 "key":"py_huya",
 "name":"虎牙〔PY〕",
 "type":3,
@@ -97,7 +97,7 @@
 "filterable":1,
 "ext":"https://gitee.com/zhanghong19830310/tv/raw/master/PyramidStore/plugin/py_huya.py"
 },
-{
+//{
 "key":"py_douyu",
 "name":"斗鱼〔PY〕",
 "type":3,
@@ -107,7 +107,7 @@
 "filterable":1,
 "ext":"https://gitee.com/zhanghong19830310/tv/raw/master/PyramidStore/plugin/py_douyu.py"
 },
-{
+//{
 "key":"py_cctv",
 "name":"CCTV〔PY〕",
 "type":3,
