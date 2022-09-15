@@ -16,7 +16,7 @@
     "电影": "1",
     "电视剧": "2",
     "动漫": "3",
-    "综艺": "4"
+    "综艺": "4",
     "全网资源": "5"
   },
   "homeVodNode": "//div[contains(@class, 'stui-vodlist__box')]/a[contains(@class,'stui-vodlist__thumb')]",
