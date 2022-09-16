@@ -35,7 +35,7 @@
 {"key": "csp_Yj1211","name": "️直播合集〔SP〕","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_Anime1","name": "小日本动漫〔SP〕","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"Nfyun","name":"Nf云〔SP〕","type":3,"api":"csp_Nfyun","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Alist2","name":"Alist合集(SP)","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/Mike906/jar/raw/branch/main/Alist.json"},
+{"key":"csp_Alist2","name":"Alist合集(SP)","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/XB/Alist.json"},
 {"key": "bdys","name": "哔嘀(磁力测试)","type": 3,"api": "csp_XPbd","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/XP/bdys.json"},
 {"key":"t4public","name":"T4公共(仅搜索)","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=阿里token&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
 {"key": "Gitcafe","name":"小纸条〔SP〕","type": 3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "4acb3ad2f2254ba1b566279f7cd98ba3"},
