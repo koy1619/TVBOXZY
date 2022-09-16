@@ -7,9 +7,9 @@
         "cateId": "/@href",
         "cateIdR": "/s/(\\w+)",
         "cateManual": {
-                "推荐": "page",
-            "电影": "topic/bluray-movie/movie/page",
-                "纪录片": "topic/bluray-movie/documentry/page",
+                "首页推荐": "page",
+            "蓝光原盘电影": "topic/bluray-movie/movie/page",
+                "蓝光原盘纪录片": "topic/bluray-movie/documentry/page",
                 "4K": "topic/4k/page"
         },
 
