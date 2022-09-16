@@ -106,6 +106,7 @@
 
 
 {"key":"〔XP〕资源","name":"↓〔XP〕资源↓","type":0,"api":"","searchable":0,"quickSearch":0,"filterable":0},
+{"key":"csp_xpath_yinfans","name":"音范丝4K(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/XP/yinfans.json"},
 {"key":"csp_xpath_农民影视","name":"农民影视(XPF)️","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/XP/nongminyingshi.json"},
 {"key":"csp_xpath_zxzj","name":"在线之家(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/XP/zxzj.json"},
 {"key":"csp_xpath_libvio","name":"LIBVIO(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/XP/libvio.json"},
