@@ -5,7 +5,6 @@
 "wallpaper":"http://maoyingshi.cc/api.php",
 
 "sites":[
-
 {"key":"csp_AppTT","name":"图图影视〔SP〕","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kunyu77","name":"七七〔SP〕","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Lib","name":"LIBVIO〔SP〕","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
@@ -38,11 +37,11 @@
 {"key":"csp_Alist2","name":"Alist合集(SP)","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/XB/Alist.json"},
 {"key": "bdys","name": "哔嘀(磁力测试)","type": 3,"api": "csp_XPbd","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/XP/bdys.json"},
 {"key":"t4public","name":"T4公共(仅搜索)","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=阿里token&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
-{"key": "Gitcafe","name":"小纸条〔SP〕","type": 3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "3781469b13074e4cac1e0e7113e4fa20"},
-{"key":"AliPS","name":"盘搜（仅搜索）","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext": "3781469b13074e4cac1e0e7113e4fa20"},
-{"key":"FindZY","name":"找资源（仅搜索）","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext": "3781469b13074e4cac1e0e7113e4fa20"},
-{"key":"csp_Yiso","name":"易搜（仅搜索）","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext":"3781469b13074e4cac1e0e7113e4fa20"},
-{"key": "push_agent","name":"推送（阿里/磁力）","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext": "3781469b13074e4cac1e0e7113e4fa20"},
+{"key": "Gitcafe","name":"小纸条〔SP〕","type": 3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "7969124e7a4e4ccfb994db1a0e580be4"},
+{"key":"AliPS","name":"盘搜（仅搜索）","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext": "7969124e7a4e4ccfb994db1a0e580be4"},
+{"key":"FindZY","name":"找资源（仅搜索）","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext": "7969124e7a4e4ccfb994db1a0e580be4"},
+{"key":"csp_Yiso","name":"易搜（仅搜索）","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext":"7969124e7a4e4ccfb994db1a0e580be4"},
+{"key": "push_agent","name":"推送（阿里/磁力）","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext": "7969124e7a4e4ccfb994db1a0e580be4"},
 
 
 {"key":"APP影视〔官源〕","name":"↓APP影视〔官源〕↓","type":0,"api":"","searchable":0,"quickSearch":0,"filterable":0},
