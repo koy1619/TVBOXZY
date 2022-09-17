@@ -2,7 +2,7 @@
 "urls": [
 {
 "url": "",
-"name": "公告：当前最新版本1.0.8"
+"name": "当前版本1.0.8 请点击下方线路观看"
 },
 {
 "url": "https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/观影TV/iqiqgr.json",
@@ -15,10 +15,6 @@
 {
 "url":"https://ghproxy.com/https://raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/观影TV/proxygr.json",
 "name": "GHPROXY个人线路"
-},
-{
-"url": "https://agit.ai/zhanghong/tvbox/raw/branch/master/agitgr.json",
-"name": "GAIT个人版线路"
 },
 {
 "url": "https://agit.ai/66666/mao/raw/branch/master/00/自用.txt",
