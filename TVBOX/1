@@ -207,10 +207,10 @@
 },
 {
 "url": "clan://localhost/tvbox/tvbox.json",
-"name": "本地线路1clan://localhost/tvbox/tvbox.json"
+"name": "本地线路[开启储存权限]clan://localhost/tvbox/tvbox.json"
 },
 { "url": "clan://localhost/tvbox/tvbox2.json",
-"name": "本地线路2clan://localhost/tvbox/tvbox2.json"
+"name": "本地线路2[开始储存权限]clan://localhost/tvbox/tvbox2.json"
 }
 ],
 "vip": [
