@@ -5,6 +5,10 @@
 "name": "当前版本1.0.8 家庭版 请点击下方线路进行观看"
 },
 {
+"url": "https://agit.ai/zhanghong/tvbox/raw/branch/master/agitjt.json",
+"name": "agit家庭版线路"
+},
+{
 "url": "https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/TVBOX/gfjt.json",
 "name": "IQIQ家庭版线路"
 },
