@@ -5,12 +5,16 @@
 "sourceUrl":"clan://localhost/tvbox/1"
 },
 {
-"sourceName":"本地分类接口",
+"sourceName":"张弘本地分类接口",
 "sourceUrl":"clan://localhost/tvbox/2"
 },
 {
 "sourceName":"张弘在线仓库",
-"sourceUrl":"https://agit.ai/zhanghong/jyys/raw/branch/master/1"
+"sourceUrl":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/1"
+},
+{
+"sourceName":"张弘在线分类接口",
+"sourceUrl":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/2"
 },
 {
 "sourceName":"龚总专用","sourceUrl":"https://agit.ai/00/0/raw/branch/0/001" },
