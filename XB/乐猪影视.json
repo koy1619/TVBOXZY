@@ -17,6 +17,8 @@
   "biaotihou": "\"",
   "lianjieqian": "href=\"",
   "lianjiehou": "\"",
+  "fubiaotiqian": "<span>",
+  "fubiaotihou": "</span>",
   "sousuoqian": "/search-pg-1-wd-",
   "sousuohou": ".html&limit=500",
   "sousuohouzhui": "/detail/",
@@ -56,5 +58,8 @@
   "bfbiaotiqian": "\">",
   "bfbiaotihou": "</a>",
   "bflianjieqian": "href=\"",
-  "bflianjiehou": "\""
+  "bflianjiehou": "\"",
+  "分类":"电影$1#连续剧$2#综艺$3#动漫$4#韩剧$14#美剧$15",
+  "分类url":"http://www.lezhutv.com/list/{cateId}_{catePg}_desc_{by}_0_0___.html",
+  "筛选":"1"
 }
