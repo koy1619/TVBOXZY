@@ -252,7 +252,7 @@
 "name":"荐片[DRPY]",
 "type":3,
 "api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.ym.js",
-"api":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/JS/lib/drpy.min.js",
+//"api":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/JS/lib/drpy.min.js",
 "ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/JS/js/荐片.js"
 },
 {
