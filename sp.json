@@ -1,5 +1,5 @@
 {
-"spider":"clan://tvbox/jar/Yoursmile2.jar",
+"spider":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/JAR/Yoursmile2.jar",
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=Y2xhbjovL3R2Ym94L3R2L2xpdmUudHh0"]}]}],
 "wallpaper":"http://maoyingshi.cc/api.php",
 
