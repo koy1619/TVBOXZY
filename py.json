@@ -1,6 +1,6 @@
 {
-"spider":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/JAR/Yoursmile2.jar",
-"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuaXFpcS5pby96aGFuZ2hvbmcxOTgzL1RWQk9YWlkvbWFpbi9UVi9saXZlLnR4dA=="]}]}],
+"spider":"clan://tvbox/jar/Yoursmile2.jar",
+"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=Y2xhbjovL3R2Ym94L3R2L2xpdmUudHh0"]}]}],
 "wallpaper":"http://maoyingshi.cc/api.php",
 
 "sites":[
@@ -13,7 +13,7 @@
 "searchable":1,
 "quickSearch":1,
 "filterable":1,
-"ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/plugin/py_kuaikan.py"
+"ext":"./plugin/py_kuaikan.py"
 },
 {
 "key":"py_lezhu",
@@ -23,7 +23,7 @@
 "searchable":1,
 "quickSearch":1,
 "filterable":1,
-"ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/plugin/py_lezhu.py"
+"ext":"./plugin/py_lezhu.py"
 },
 {
 "key":"py_3qu",
@@ -33,7 +33,7 @@
 "searchable":0,
 "quickSearch":0,
 "filterable":1,
-"ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/plugin/py_3qu.py"
+"ext":"./plugin/py_3qu.py"
 },
 {
 "key":"py_cyys",
@@ -43,7 +43,7 @@
 "searchable":0,
 "quickSearch":0,
 "filterable":1,
-"ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/plugin/py_cyys.py"
+"ext":"./plugin/py_cyys.py"
 },
 {
 "key":"py_wmkk",
@@ -53,7 +53,7 @@
 "searchable":1,
 "quickSearch":1,
 "filterable":1,
-"ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/plugin/py_wmkk.py"
+"ext":"./plugin/py_wmkk.py"
 },
 {
 "key":"py_cup",
@@ -63,7 +63,7 @@
 "searchable":1,
 "quickSearch":1,
 "filterable":1,
-"ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/plugin/py_cup.py"
+"ext":"./plugin/py_cup.py"
 },
 {
 "key":"py_star",
@@ -73,7 +73,7 @@
 "searchable":1,
 "quickSearch":1,
 "filterable":1,
-"ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/plugin/py_star.py"
+"ext":"./plugin/py_star.py"
 },
 {
 "key":"py_bilibili",
@@ -83,7 +83,7 @@
 "searchable":0,
 "quickSearch":0,
 "filterable":1,
-"ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/plugin/py_bilibili.py"
+"ext":"./plugin/py_bilibili.py"
 },
 {
 "key":"py_bilivd",
@@ -93,7 +93,7 @@
 "searchable":0,
 "quickSearch":0,
 "filterable":1,
-"ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/plugin/py_bilivd.py"
+"ext":"./plugin/py_bilivd.py"
 },
 {
 "key":"py_cctv",
@@ -103,7 +103,7 @@
 "searchable":0,
 "quickSearch":0,
 "filterable":1,
-"ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/plugin/py_cctv.py"
+"ext":"./plugin/py_cctv.py"
 },
 {
 "key":"py_czspp",
@@ -113,7 +113,7 @@
 "searchable":1,
 "quickSearch":1,
 "filterable":1,
-"ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/plugin/py_czspp.py"
+"ext":"./plugin/py_czspp.py"
 },
 {
 "key":"py_zxzj",
@@ -123,7 +123,7 @@
 "searchable":1,
 "quickSearch":1,
 "filterable":1,
-"ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/plugin/py_zxzj.py"
+"ext":"./plugin/py_zxzj.py"
 },
 {
 "key":"py_voflix",
@@ -133,17 +133,17 @@
 "searchable":1,
 "quickSearch":1,
 "filterable":1,
-"ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/plugin/py_voflix.py"
+"ext":"./plugin/py_voflix.py"
 },
 {
 "key":"py_bilimd",
-"name":"B站影视〔PY〕",
+"name":"🔥B站影视〔PY〕",
 "type":3,
 "api":"py_bilimd",
 "searchable":1,
 "quickSearch":1,
 "filterable":1,
-"ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/plugin/py_bilimd.py"
+"ext":"./plugin/py_bilimd.py"
 },
 {
 "key":"py_gimytv",
@@ -153,7 +153,7 @@
 "searchable":1,
 "quickSearch":1,
 "filterable":1,
-"ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/plugin/py_gimytv.py"
+"ext":"./plugin/py_gimytv.py"
 },
 {
 "key":"py_genmov",
@@ -163,27 +163,27 @@
 "searchable":1,
 "quickSearch":1,
 "filterable":1,
-"ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/plugin/py_genmov.py"
+"ext":"./plugin/py_genmov.py"
 },
 {
 "key":"py_huya",
-"name":"虎牙〔PY〕",
+"name":"🔥虎牙〔PY〕",
 "type":3,
 "api":"py_huya",
 "searchable":0,
 "quickSearch":0,
 "filterable":1,
-"ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/plugin/py_huya.py"
+"ext":"./plugin/py_huya.py"
 },
 {
 "key":"py_douyu",
-"name":"斗鱼〔PY〕",
+"name":"🔥斗鱼〔PY〕",
 "type":3,
 "api":"py_douyu",
 "searchable":0,
 "quickSearch":0,
 "filterable":1,
-"ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/plugin/py_douyu.py"
+"ext":"./plugin/py_douyu.py"
 },
 {
 "key":"py_cokemv",
@@ -193,7 +193,7 @@
 "searchable":1,
 "quickSearch":1,
 "filterable":1,
-"ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/plugin/py_cokemv.py"
+"ext":"./plugin/py_cokemv.py"
 },
 {
 "key":"py_xmaomi",
@@ -203,7 +203,7 @@
 "searchable":1,
 "quickSearch":1,
 "filterable":1,
-"ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/plugin/py_xmaomi.py"
+"ext":"./plugin/py_xmaomi.py"
 },
 {
 "key":"py_gitcafe",
@@ -213,7 +213,7 @@
 "searchable":1,
 "quickSearch":1,
 "filterable":0,
-"ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/plugin/py_gitcafe.py"
+"ext":"./plugin/py_gitcafe.py"
 },
 {
 "key":"py_zhaozy",
@@ -223,7 +223,7 @@
 "searchable":1,
 "quickSearch":1,
 "filterable":0,
-"ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/plugin/py_zhaozy.py"
+"ext":"./plugin/py_zhaozy.py"
 },
 {
 "key":"py_yiso",
@@ -233,7 +233,7 @@
 "searchable":1,
 "quickSearch":1,
 "filterable":0,
-"ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/plugin/py_yiso.py"
+"ext":"./plugin/py_yiso.py"
 },
 {
 "key":"py_pansou",
@@ -243,7 +243,7 @@
 "searchable":1,
 "quickSearch":1,
 "filterable":0,
-"ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/plugin/py_pansou.py"
+"ext":"./plugin/py_pansou.py"
 },
 {
 "key":"push_agent",
@@ -253,17 +253,17 @@
 "searchable":0,
 "quickSearch":0,
 "filterable":0,
-"ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/plugin/py_ali.py"
+"ext":"./plugin/py_ali.py"
 },
 {
 "key":"py_alist",
-"name":"Alist〔PY〕",
+"name":"🦂Alist〔PY〕",
 "type":3,
 "api":"py_alist",
 "searchable":1,
 "quickSearch":1,
 "filterable":1,
-"ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/plugin/py_alist.py"
+"ext":"./plugin/py_alist.py"
 }
 ],
 "parses":[
@@ -284,7 +284,7 @@
 {"name":"备用[②]","type":1,"url":"https://k.json.icu/home/api?type=ys&uid=12523586&key=bhjlntBEIJKLPQW146&url="},
 {"name":"备用[③]","type":1,"url":"https://k.json.icu/home/api?type=ys&uid=13483004&key=cghjkqrsyKPRV12356&url="},
 
-{"name":"GGTV自用","type":1,"url":"https://play.fuqizhishi.com/jx/API.php?appkey=ixiaobai&url="},
+{"name":"GGTV","type":1,"url":"https://play.fuqizhishi.com/jx1/API.php?appkey=iiiixiaobai&url="},
 {"name":"GGTV搜集","type":1,"url":"https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url="},
 {"name":"智能[④]","type":1,"url":"https://json.freejx.in/?url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"},"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
 
