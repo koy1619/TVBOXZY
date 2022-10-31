@@ -5,8 +5,6 @@
 
 "sites":[
 
-{"key":"csp_xBPQ_在线189","name":"在线189","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/xBPQ/在线189.json"},
-
 {"key":"csp_xBPQ_人人影视","name":"人人影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/xBPQ/人人影视.json"},
 
 {"key":"csp_xBPQ_神马影院","name":"神马影院","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/xBPQ/神马影院.json"},
@@ -144,6 +142,8 @@
 
 {"key":"csp_xBPQ_极品影视","name":"极品影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,
 "ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/xBPQ/极品影视.json"},
+
+{"key":"csp_xBPQ_在线189","name":"在线189","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/xBPQ/在线189.json"},
 
 {"key":"csp_xBPQ_淘剧鸭","name":"淘剧鸭","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,
 "ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/xBPQ/淘剧鸭.json"},
