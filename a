@@ -5,12 +5,16 @@
 "sourceUrl":"clan://localhost/tvbox/1"
 },
 {
-"sourceName":"本地分类接口",
+"sourceName":"张弘本地分类接口",
 "sourceUrl":"clan://localhost/tvbox/2"
 },
 {
 "sourceName":"张弘在线仓库",
-"sourceUrl":"https://agit.ai/zhanghong/jyys/raw/branch/master/1"
+"sourceUrl":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/1"
+},
+{
+"sourceName":"张弘在线分类接口",
+"sourceUrl":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/2"
 },
 {
 "sourceName":"666666仓库",
@@ -24,10 +28,10 @@
 "sourceName":"leroy仓库",
 "sourceUrl":"https://agit.ai/leroy/leroy/raw/branch/master/22.bin"
 },
-{"sourceName":"💚多多①号仓","sourceUrl":"https://raw.iqiq.io/leevi0709/apps/main/1"},
-{"sourceName":"💚多多②号仓","sourceUrl":"https://raw.iqiq.io/leevi0709/apps/main/2"},
-{"sourceName":"💚多多③号仓","sourceUrl":"https://raw.iqiq.io/leevi0709/apps/main/3"},
-{"sourceName":"🧡多多④号仓","sourceUrl":"https://raw.iqiq.io/leevi0709/apps/main/4"},
-{"sourceName":"🧡多多⑤号仓","sourceUrl":"https://raw.iqiq.io/leevi0709/apps/main/5"}
+{"sourceName":"多多①号仓","sourceUrl":"https://raw.iqiq.io/leevi0709/apps/main/1"},
+{"sourceName":"多多②号仓","sourceUrl":"https://raw.iqiq.io/leevi0709/apps/main/2"},
+{"sourceName":"多多③号仓","sourceUrl":"https://raw.iqiq.io/leevi0709/apps/main/3"},
+{"sourceName":"多多④号仓","sourceUrl":"https://raw.iqiq.io/leevi0709/apps/main/4"},
+{"sourceName":"多多⑤号仓","sourceUrl":"https://raw.iqiq.io/leevi0709/apps/main/5"}
 ]
 }
