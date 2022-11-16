@@ -5,13 +5,21 @@
 
 "sites":[
 
+{"key":"csp_xBPQ_聚优直播","name":"聚优直播","type":3,"api":"csp_xBPQ","searchable":0,"quickSearch":0,"filterable":0,
+"ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/xBPQ/聚优直播.json"},
+
+{"key":"csp_xBPQ_实时直播","name":"实时直播","type":3,"api":"csp_xBPQ","searchable":0,"quickSearch":0,"filterable":0,
+"ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/xBPQ/实时直播.json"},
+
+{"key":"csp_xBPQ_天天直播","name":"天天直播","type":3,"api":"csp_xBPQ","searchable":0,"quickSearch":0,"filterable":0,
+"ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/xBPQ/天天直播.json"},
+
+{"key":"csp_xBPQ_天天综合","name":"天天综合️","type":3,"api":"csp_xBPQ","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/xBPQ/天天综合.json"},
+
+
 {"key":"csp_xBPQ_黄瓜TV","name":"黄瓜TV️","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/xBPQ/黄瓜TV.json"},
 
-{"key":"csp_xBPQ_天天综合️","name":"天天综合️","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/xBPQ/天天综合️.json"},
-
-{"key":"csp_xBPQ_天天直播","name":"天天直播️","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/xBPQ/天天直播️.json"},
-
-{"key":"csp_xBPQ_麻豆女优","name":"麻豆女优","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/xBPQ/麻豆女优.json"},
+{"key":"csp_xBPQ_麻豆女优","name":"麻豆女优","type":3,"api":"csp_xBPQ","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/xBPQ/麻豆女优.json"},
 
 {"key":"csp_xBPQ_banan","name":"banan","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/xBPQ/banan.json"},
 
@@ -28,7 +36,7 @@
 
 {"key":"csp_xBPQ_麻豆映画","name":"麻豆映画","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/xBPQ/麻豆映画.json"},
 
-{"key":"csp_xBPQ_AVideo","name":"AVideo","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/xBPQ/AVideo.json","jar":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/JAR/xBPQ_1022.jar"},
+{"key":"csp_xBPQ_AVideo","name":"AVideo","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/xBPQ/AVideo.json","jar":"clan://tvbox/jar/xBPQ_1022.jar"},
 
 {"key":"csp_xBPQ_黄仓库","name":"黄仓库","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/xBPQ/黄仓库.json"},
 
