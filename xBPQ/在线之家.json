@@ -1,27 +1,33 @@
 {
-"作者": "菜妮丝https://cainisi.cf",
-"站名": "在线之家",
-"主页url": "https://zxzj.vip",
-"免嗅": "1",
-
-"分类": "电影$1#美剧$2#韩剧$3#日剧$4#泰剧$5#动漫$6",
-"分类url": "https://zxzj.vip/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
-
-"副标题": "text-right\">&&</span>",
-
-"搜索后缀": "/detail/",
-
-"导演": "导演：&&</p>",
-"主演": "主演：&&</p>",
-"简介": "display: none;\">&&</span>",
-
-"线路数组": "<div class=\"stui-vodlist__head\">&&</div>",
-"线路标题": "<h3>&&</h3>",
-
-"播放数组": "<ul class=\"stui-content__playlist clearfix\">&&</ul>",
+"作者":"张弘",
+"站名":"在线之家",
+"主页url":"https://zxzj.vip",
+"数组":"<div class=\"stui-vodlist__box\">&&</div>",
+"图片":"data-original=\"&&\"",
+"标题":"title=\"&&\"",
+"链接":"href=\"&&\"",
+"副标题":"text-right\">&&</span>",
+"搜索模式":"1",
+"搜索url":"/vodsearch/{wd}----------{pg}---.html",
+"搜索数组":"<div class=\"stui-vodlist__box\">&&</a>",
+"搜索图片":"data-original=\"&&\"",
+"搜索标题":"title=\"&&\"",
+"搜索链接":"href=\"&&\"",
+"搜索副标题":"text-right\">&&</span>",
+"搜索后缀":"/detail/",
+"影片类型":"类型：&&</p>",
+"导演":"导演：&&</p>",
+"主演":"主演：&&</p>",
+"简介":"display: none;\">&&</span>",
+"线路数组":"<div class=\"stui-vodlist__head\">&&</div>",
+"线路标题":"<h3>&&</h3>",
+"播放数组":"<ul class=\"stui-content__playlist clearfix\">&&</ul>",
 "播放列表":"<li>&&</li>",
 "播放标题":">&&</a>",
 "播放链接":"href=\"&&\"",
+"分类":"电影$1#美剧$2#韩剧$3#日剧$4#泰剧$5#动漫$6",
+"分类url":"https://zxzj.vip/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
+"免嗅":"1",
 "筛选":{
 "1":[
 {"key":"class","name":"剧情","value":[

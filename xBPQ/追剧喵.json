@@ -12,7 +12,9 @@
 "线路数组":"<a href=\"javascript:\"&&/a>",
 "线路标题":">&&<",
 "播放数组":"<div class=\"playlist-notfull&&</div>",
-"状态":"类型：&&</li>",
+"影片年代":"年份：&&</li>",
+"影片地区":"地区：&&</li>",
+"影片类型":"类型：&&</li>",
 "导演":"导演：&&</li>",
 "主演":"主演：&&</li>",
 "简介":"简介：&&</li>",
@@ -20,7 +22,6 @@
 "播放标题":">&&<",
 "播放链接":"href=\"&&\"",
 "免嗅":"1",
-"嗅探词":".m3u8#.mp4#.flv#.m4a#.avi#.mkv#.mov#.3gp#.asf#.rm#.rmvb#.wmv#.mpg#.mpeg#.mpe#.ts#.vob#.mp3#.wma",
 "分类":"电影$1#电视剧$2#综艺$3#动漫$4#记录$76",
 "分类url":"https://zjmiao.com/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/state/{state}/version/{version}/year/{year}/",
 "筛选":{

@@ -7,6 +7,7 @@
 "图片":"data-original=\"&&\"",
 "标题":"title=\"&&\"",
 "链接":"href=\"&&\"",
+"副标题":"<span class=\"pic-text text-right\">&&</span>",
 "搜索后缀":"/voddetail/",
 "搜索模式":"1",
 "搜索数组":"class=\"thumb&&</li>",
@@ -24,7 +25,6 @@
 "播放标题":"\">&&</a>",
 "播放链接":"href=\"&&\">",
 "免嗅":"1",
-"副标题":"<span class=\"pic-text text-right\">&&</span>",
 "分类url":"https://www.dadagui.me/vodshow/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html",
 "筛选":{
 "1":[

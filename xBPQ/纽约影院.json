@@ -6,6 +6,7 @@
 "图片":"data-src=\"&&\"",
 "标题":"title=\"&&\"",
 "链接":"href=\"&&\"",
+"搜索模式":"0",
 "搜索后缀":"/voddetail/",
 "线路数组":"<div class=\"module-tab-item tab-item&&</div>[排序:双线节点]",
 "线路标题":"<span>&&</span>",
