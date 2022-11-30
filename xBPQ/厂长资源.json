@@ -1,7 +1,7 @@
 {
 "作者":"张弘",
 "站名":"厂长资源",
-"主页url":"https://www.czspp.com/",
+"主页url":"https://www.c-zzy.com/",
 "数组":"<li>&&</li>",
 "图片":"data-original=\"&&\"",
 "标题":"alt=\"&&\"",
@@ -28,7 +28,7 @@
 "播放链接":"href=\"&&\"",
 "分类":"站长推荐&电影&电视剧&动画&国产剧&日剧&韩剧&美剧&海外剧&俄罗斯电影&加拿大电影&华语电影&印度电影&日本电影&欧美电影&法国电影&英国电影&韩国电影",
 "分类值":"zhanchangtuijian&dyy&dianshiju&dohua&guochanju&rj&hj&mj&hwj&eluosidianying&jianadadianying&huayudianying&yindudianying&ribendianying&meiguodianying&faguodianying&yingguodianying&hanguodianying",
-"分类url":"https://www.czspp.com/movie_bt/{class}/movie_bt_series/{cateId}/page/{catePg}",
+"分类url":"https://www.c-zzy.com/movie_bt/{class}/movie_bt_series/{cateId}/page/{catePg}",
 "筛选":{
 "dyy":[
 {
