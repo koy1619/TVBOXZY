@@ -6194,7 +6194,7 @@ IPTV北京4K超清,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/
 
 
 
-🎎日本频道,#genre#
+日本频道,#genre#
 NHKWorld,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 NHKWorld,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 Animax,https://livecdn.fptplay.net/hda3/animaxport_hls.smil/playlist.m3u8
@@ -6228,7 +6228,7 @@ Shop Channel,https://stream3.shopch.jp/HLS/master.m3u8
 日本购物3,http://stream1.shopch.jp/HLS/out3/prog_index.m3u8
 日本购物4,http://stream1.shopch.jp/HLS/out4/prog_index.m3u8
 
-🎈韩国频道,#genre#
+韩国频道,#genre#
 ArirangTV,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 ArirangTV,http://amdlive-ch02.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 ArirangTV,http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
@@ -6795,9 +6795,9 @@ TVB财经,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
 TVB影视剧,http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw3279865347_-1298155843/PLTV/88888888/224/3221231733/1.m3u8
 TVB明珠台,https://cdn.hklive.tv/xxxx/84/index.m3u8
 TVB明珠台,http://113.64.147.18:808/hls/26/index.m3u8
-TVB翡翠台,http://113.117.74.11:808/hls/67/index.m3u8
 TVB翡翠台,http://113.64.147.18:808/hls/25/index.m3u8
-TVB翡翠台,http://113.64.147.18:808/hls/67
+TVB翡翠台,http://113.64.147.18:808/hls/67/index.m3u8
+TVB翡翠台,http://113.117.74.11:808/hls/67/index.m3u8
 TVB星河,http://113.64.147.18:808/hls/135/index.m3u8
 ViuTV,https://cdn.hklive.tv/xxxx/99/index.m3u8
 ViuTV6,https://cdn.hklive.tv/xxxx/96/index.m3u8
