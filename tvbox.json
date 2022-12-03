@@ -802,30 +802,6 @@
 },
 
 
-
-
-
-{"key":"csp_QXBiubiu_剧白白","name":"剧白白(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XB/剧白白.json"},
-{"key":"csp_QXBiubiu_600影视","name":"600影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XB/600影视.json"},
-{"key":"csp_biubiu_八戒影视","name":"八戒影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XB/八戒影视.json"},
-{"key":"csp_biubiu_米来影视","name":"米来影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XB/米来影视.json"},
-{"key":"csp_biubiu_旧梦影视","name":"旧梦影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XB/旧梦影视.json"},
-{"key":"csp_biubiu_私人影院","name":"私人影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XB/私人影院.json"},
-{"key":"csp_biubiu_夜空蓝光","name":"夜空蓝光(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XB/夜空蓝光.json"},
-{"key":"csp_biubiu_看一看影视","name":"看一看影视(XB)️","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XB/看一看影视.json"},
-{"key":"'csp_biubiu_骚火电影","name":"骚火电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XB/骚火电影.json"},
-{"key":"csp_biubiu_搜狗影院","name":"搜狗影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XB/搜狗影院.json"},
-{"key":"csp_biubiu_蓝莓影视","name":"蓝莓影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XB/蓝莓影视.json"},
-{"key":"csp_biubiu_蓝豆TV","name":"蓝豆TV(XB)️","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XB/蓝豆TV.json"},
-{"key":"csp_biubiu_桔子TV","name":"桔子TV(XB)️","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XB/桔子tv.json"},
-{"key":"csp_biubiu_哔嘀影视","name":"哔嘀影视(XB)️","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XB/哔嘀影视.json"},
-{"key":"csp_biubiu_看片网","name":"看片网(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XB/看片网.json"},
-{"key":"csp_biubiu_茶杯狐","name":"茶杯狐(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XB/茶杯狐.json"},
-
-
-
-
-
 {"key":"csp_xBPQ_天天综合","name":"天天综合","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/天天综合.json"},
 
 {"key":"csp_xBPQ_天天直播","name":"天天直播","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/天天直播.json"},
