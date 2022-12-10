@@ -228,9 +228,6 @@
 
 {"key":"csp_xBPQ_黑狐影院","name":"黑狐影院","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/黑狐影院.json"},
 
-{"key":"csp_xBPQ_极品影视","name":"极品影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"./xBPQ/极品影视.json"},
-
 {"key":"csp_xBPQ_番茄影视","name":"番茄影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"./xBPQ/番茄影视.json"},
 
@@ -322,7 +319,6 @@
 {"key":"csp_XPath_vip1280","name":"VIP电影(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XP/vip1280.json"},
 {"key":"csp_XPath_tjyy","name":"奇优影院(XP)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XP/huigutongying.json"},
 {"key":"csp_XPath_lezhutv","name":"乐猪TV(XPMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XP/lezhutv.json"},
-{"key":"csp_XPath_jpys","name":"极品影视(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XP/jpys.json"},
 {"key":"csp_XPath_lranc","name":"天天影视(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XP/lranc.json"},
 {"key":"csp_XPath_maole","name":"喵乐影视(XPF)️","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XP/maole.json"},
 {"key":"csp_XPath_xuangz","name":"尘落电影(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XP/xuangz.json"},
