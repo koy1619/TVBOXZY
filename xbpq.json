@@ -7,6 +7,8 @@
 
 {"key":"T4_douban","name":"影视推荐(T4)","type":4,"api":"https://t4.饭太硬.ml/vod","searchable":1,"quickSearch":1,"filterable":1},
 
+{"key":"csp_xBPQ_红领巾影院","name":"红领巾影院","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/红领巾影院.json"},
+
 {"key":"csp_xBPQ_浮生半日","name":"浮生半日","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/浮生半日.json"},
 
 {"key":"csp_xBPQ_天空影视","name":"天空影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/天空影视.json"},
@@ -121,9 +123,6 @@
 
 {"key":"csp_xBPQ_皮皮泡影视","name":"皮皮泡影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,
 "ext":"./xBPQ/皮皮泡影视.json"},
-
-{"key":"csp_xBPQ_555电影","name":"555电影","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,
-"ext":"./xBPQ/555电影.json"},
 
 {"key":"csp_xBPQ_干饭影视","name":"干饭影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,
 "ext":"./xBPQ/干饭影视.json"},
