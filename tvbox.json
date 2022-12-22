@@ -262,6 +262,8 @@
 
 
 
+
+
 {"key":"csp_appysv2_佳佳影视","name":"佳佳影视〔APP〕","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.jiajia.pub/api.php/v1.vod"},
 
 {"key":"csp_appysv2_迷你库","name":"迷你库〔APP〕","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.miniku.cc/xgapp.php/v1/"},
@@ -553,6 +555,7 @@
 
 
 //{"key":"ASMR","name":"ASMR 19","type":1,"api":"http://www.asmr19.in/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"18禁不禁","name":"18禁不禁","type":0,"api":"https://18jinbujin.com/home/cjapi/as/mc10/vod/xml","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"CK资源","name":"CK资源","type":1,"api":"https://ckzy.me/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"CK资源2","name":"CK资源2","type":1,"api":"http://www.feifei67.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"JAV名优","name":"JAV名优","type":0,"api":"http://mygzycj.com/api.php?ac=list","searchable":1,"quickSearch":1,"filterable":1},
