@@ -7,6 +7,8 @@
 
 {"key":"T4_douban","name":"影视推荐(T4)","type":4,"api":"https://t4.饭太硬.ml/vod","searchable":1,"quickSearch":1,"filterable":1},
 
+{"key":"csp_Gitcafe","name":"小纸条〔SP〕","type": 3,"api":"csp_Gitcafe","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
+
 {"key":"Gitcafe","name":"小纸条〔ts〕","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt","jar":"./JAR/cs.jar"},
 
 {"key":"csp_xBPQ_红领巾影院","name":"红领巾影院","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/红领巾影院.json"},
@@ -216,8 +218,8 @@
 
 {"key":"csp_xBPQ_听书网","name":"听书网️","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/听书网.json"},
 
-{"key":"csp_Alist","name":"AList(SP)","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"jumpDetail":0,"reversePlay":0,"enable":1,"ext":"./xBPQ/Alist.json","jar":"./JAR/Yoursmile2.jar"},
-{"key":"csp_Alist1","name":"网盘合集(SP)","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"jumpDetail":0,"reversePlay":0,"enable":1,"ext":"./xBPQ/Alist1.json"},
+{"key":"csp_Alist","name":"AList(SP)","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":1,"jumpDetail":0,"reversePlay":0,"enable":1,"ext":"./xBPQ/Alist.json","jar":"./JAR/Yoursmile2.jar"},
+{"key":"csp_Alist1","name":"网盘合集(SP)","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":1,"jumpDetail":0,"reversePlay":0,"enable":1,"ext":"./xBPQ/Alist1.json"},
 
 {"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt","jar":"./JAR/cs.jar"}
 ],
