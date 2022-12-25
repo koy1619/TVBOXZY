@@ -2,7 +2,7 @@
 "urls": [
 {"url": "","name": "请点击下方线路观看"},
 {
-"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/tvbox.json",
+"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/juyou.json",
 "name": "张弘线路"
 },
 {
