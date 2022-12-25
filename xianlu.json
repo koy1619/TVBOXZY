@@ -1,6 +1,5 @@
 {
 "urls": [
-{"url": "","name": "请点击下方线路观看"},
 {
 "https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/juyou.json",
 "name": "张弘线路"
@@ -104,8 +103,8 @@
 ],
 "vip": [
 {
-"url": "https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/vip.json",
-"name": "VIP"
+"url":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/vip.json",
+"name":"VIP"
 }
 ]
 }
