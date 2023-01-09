@@ -1,13 +1,16 @@
-{
-"站名":"GAOAA",
-"主页url":"https://65gaoaa.com/",
-"副标题":"<div class=\"img-tag\">&&</div>",
+{"站名":"GAOAA",
+"主页url":"https://100gaoaa.com",
+"二次截取":"<a href=\"/baidu/index.html\" title=\"美女棋牌\" target=\"_blank\">百人牛牛，美女陪干！不爽就来干</a>&&<div class=\"box-page\">",
+"数组":"class=\"video-pic loading&&player",
+"图片":"data-original=\"&&\"",
+"标题":"title=\"&&\"",
+"链接":"href=\"&&\"",
 "线路数组":"<div class=\"item line\">&&</div>",
 "线路标题":">&&</a>",
 "搜索url":"/gaosearch/{wd}-/page/{pg}/",
 "搜索模式":"0",
-"搜索链接前缀":"https://65gaoaa.com/gaoplay/",
-"搜索链接后缀":"-1-1.html",
+"搜索链接前缀":"https://100gaoaa.com",
+"搜索链接后缀":"",
 "播放数组":"class=\"item line\">&&</div>",
 "状态":"target=\"_blank\">&&</a><i",
 "导演":"class=\"data\">类型：&&</p>",
@@ -16,9 +19,8 @@
 "播放列表":"<a&&/a>",
 "播放标题":">&&<",
 "播放链接":"href=\"&&\"",
-"免嗅":"0",
 "分类":"GAOAA$25",
-"分类url":"https://65gaoaa.com/gaotype/{cateId}_{catePg}.html",
+"分类url":"https://100gaoaa.com/gaotype/{cateId}_{catePg}.html",
 "筛选":{
 "25":[
 {
