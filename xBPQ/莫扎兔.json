@@ -1,7 +1,9 @@
 {
 "作者":"张弘",
 "站名":"莫扎兔",
-"主页url":"https://www.mozhatu.com",
+//https://www.mozhatu.com/
+//https://dazhutizi.net/
+"主页url":"https://tv1920.com/",
 "二次截取":"class=\"module-items&&<div class=\"fixedGroup",
 "图片":"data-original=\"&&\"",
 "标题":"title=\"&&\"",
@@ -22,7 +24,8 @@
 "播放数组":"module-play-list\">&&</div>",
 "分类":"电影&电视剧&综艺&动漫&记录",
 "分类值":"1&2&3&4&5",
-"分类url":"https://www.mozhatu.com/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{langpage/{catePg}/year/{year}.html",
+"分类url":"https://tv1920.com/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{langpage/{catePg}/year/{year}.html",
+
 "筛选":{
 "1":[
 {

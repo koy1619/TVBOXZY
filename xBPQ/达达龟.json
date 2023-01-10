@@ -27,6 +27,8 @@
 "播放标题":">&&<",
 "播放链接":"href=\"&&\"",
 "免嗅":"1",
+"分类":"电影&电视剧&综艺&动漫",
+"分类值":"1&2&3&4",
 "分类url":"https://www.dadagui.me/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
 "筛选":{
 "1":[
