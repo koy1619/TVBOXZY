@@ -3,6 +3,7 @@
 "站名":"子子影视",
 "主页url":"https://www.ziziys.com/",
 "数组":"<div class=\"module-item\">&&</div>",
+"副标题":"<div class=\"module-item-text\">&&</div>",
 "搜索url":"/vsearch/{wd}--{pg}.html",
 "搜索模式":"0",
 "搜索后缀":"/vdetail/",
