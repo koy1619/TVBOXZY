@@ -9,8 +9,6 @@
 
 {"key":"csp_Lib","name":"LIBVIO〔SP〕","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"csp_AppTT","name":"图图影视〔SP〕","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://124.248.66.107:9955"},
-
 {"key":"AppTT","name":"图图影视〔ts〕","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5","jar":"./JAR/cs.jar"},
 
 {"key":"csp_Zxzj","name":"在线之家〔SP〕","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
@@ -28,8 +26,6 @@
 {"key":"csp_BuLei","name":"布雷影院〔SP〕","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"csp_Nmys","name":"农民影视〔SP〕","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XP/nongminyingshi.json"},
-
-{"key":"csp_Dy555","name":"555电影〔SP〕","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"Dy555","name":"555电影〔ts〕","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"f41992bd740145ed58cb212dc0876582","jar":"./JAR/cs.jar"},
 
