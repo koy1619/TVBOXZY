@@ -281,7 +281,7 @@
 
 {"key":"csp_xBPQ_美剧网","name":"美剧网","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/美剧网.json"},
 
-{"key":"csp_xBPQ_豆角网","name":"豆角网","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/豆角网.json","jar":"./JAR/XBPQ_0111.jar"},
+//{"key":"csp_xBPQ_豆角网","name":"豆角网","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/豆角网.json","jar":"./JAR/XBPQ_0111.jar"},
 
 {"key":"csp_xBPQ_秋霞影视","name":"秋霞影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/秋霞影视.json","jar":"./JAR/XBPQ_0111.jar"},
 
@@ -335,6 +335,7 @@
 
 
 
+{"key":"csp_XPath_doujiaow","name":"豆角网(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XP/doujiaow.json"},
 
 {"key":"csp_XPath_yinfans","name":"音范丝4K(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XP/yinfans.json"},
 
