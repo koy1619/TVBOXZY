@@ -61,9 +61,6 @@
 
 {"key":"csp_xBPQ_溪谷影视","name":"溪谷影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/溪谷影视.json"},
 
-{"key":"csp_xBPQ_素白白","name":"素白白","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"./xBPQ/素白白.json"},
-
 {"key":"csp_xBPQ_188影视","name":"188影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/188影视.json"},
 
 {"key":"csp_xBPQ_在线之家","name":"在线之家","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/在线之家.json"},
