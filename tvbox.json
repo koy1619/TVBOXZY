@@ -537,11 +537,6 @@
 {"key":"drpy_js_18av","name":"18av[DRPY18]","type":3,"api":"./JS/lib/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./JS/js/18av.js"},
 {"key":"bili","name":"Bili[jar]","type":3,"api":"csp_Bili","ext":"./JS/js/音乐演唱.json"},
 {"key":"drpy_js_我的哔哩","name":"我的哔哩[js]","type":3,"api":"./JS/lib/drpy.min.js","ext":"./JS/js/我的哔哩.js"},
-//{"key":"易搜","name":"易搜","type":3,"api":"csp_YiSo","ext":"./JS/lib/token.txt"},
-//{"key":"盘搜","name":"盘搜","type":3,"api":"csp_PanSou","ext":"./JS/lib/token.txt"},
-//{"key":"UP云搜","name":"UP云搜","type":3,"api":"csp_UpYun","ext":"./JS/lib/token.txt"},
-//{"key":"找資源","name":"找資源","type":3,"api":"csp_Zhaozy","ext":"./JS/lib/token.txt"},
-//{"key": "csp_push","name": "推送","type": 3,"api": "csp_Push","ext": "./JS/lib/token.txt"},
 
 {"key":"csp_黄仓库","name":"黄仓库〔SP〕","api":"csp_Hsck","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://www.javsee.men/","jar":"./JAR/18.jar"},
 
@@ -657,7 +652,7 @@
 
 {"key":"csp_Zhaozy","name":"找资源","type":3,"api":"csp_Zhaozy","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt"},
 
-{"key":"push_agent","name":"推送","type":3,"api":"csp_Push","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt"}
+{"key":"push_agent","name":"推送|云盘|磁力","type":3,"api":"csp_PushAgent","playerType":1,"searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt","jar":"./JAR/cs.jar"}
 ],
 
 
