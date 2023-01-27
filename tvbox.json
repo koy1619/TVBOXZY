@@ -5,15 +5,13 @@
 
 "sites":[
 
-
-
 {"key":"T4_douban","name":"影视推荐(T4)","type":4,"api":"https://t4.饭太硬.ml/vod","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"csp_Kunyu77","name":"七七〔SP〕","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"csp_Lib","name":"LIBVIO〔SP〕","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"csp_TutuYs","name":"图图影视〔SP〕","type":3,"api":"csp_TutuYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://124.248.66.89:7788","jar":"./JAR/qj231121.jar"},
+{"key":"csp_AppTT2","name":"图图影视〔SP〕","type":3,"api":"csp_AppTT2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://124.248.66.89:7788"},
 
 {"key":"AppTT","name":"图图影视〔ts〕","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5","jar":"./JAR/cs.jar"},
 
@@ -597,9 +595,13 @@
 {"key":"csp_xBPQ_GAOAA","name":"GAOAA","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"./xBPQ/GAOAA.json","jar":"./JAR/XBPQ_0111.jar"},
 
-{"key":"csp_Doll","name":"玩偶姐姐 墙外〔SP〕","type":3,"api":"csp_Doll","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_xBPQ_Jable","name":"Jable〔翻墙〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/Jable.json","jar":"./JAR/Yoursmile2.jar"},
 
-{"key":"csp_Jable","name":"Jable 墙外〔SP〕","type":3,"api":"csp_Jable","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_xBPQ_玩偶姐姐","name":"玩偶姐姐〔翻墙〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/玩偶姐姐.json","jar":"./JAR/Yoursmile2.jar"},
+
+//{"key":"csp_Doll","name":"玩偶姐姐 墙外〔SP〕","type":3,"api":"csp_Doll","searchable":1,"quickSearch":1,"filterable":1},
+
+//{"key":"csp_Jable","name":"Jable 墙外〔SP〕","type":3,"api":"csp_Jable","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"csp_Miss","name":"Miss AV 墙外〔SP〕","type":3,"api":"csp_Miss","searchable":1,"quickSearch":1,"filterable":1},
 
@@ -844,6 +846,20 @@
 }
 }
 ],
+"sniffer":{
+"userAgent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/105.0.0.0Safari/537.36Edg/105.0.1343.27",
+"isVideoFormat":"http((?!http).){26,}\\.(m3u8|mp4|flv|avi|mkv|wmv|mpg|mpeg|mov|ts|3gp|rm|rmvb|asf|m4a|mp3|wma)",
+"custom":[
+{
+"url":"/Cloud/Down/AliCloud/",
+"mimeType":"text/html",
+"encoding":"utf-8",
+"header":{
+"Referer":"https://www.zxzj.org/"
+}
+}
+]
+},
 
 "ijk":[
 {"group":"软解码","options":[
