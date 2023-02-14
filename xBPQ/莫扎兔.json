@@ -22,9 +22,12 @@
 "线路数组":"data-dropdown-value=&&</div>",
 "线路标题":"<span>&&</small>[替换:</span><small>>>♡]+集♡",
 "播放数组":"module-play-list\">&&</div>",
+"播放列表":"<a&&/a>",
+"播放标题":"<span>&&</span>",
+"播放链接":"href=\"&&\"",
 "分类":"电影&电视剧&综艺&动漫&记录",
 "分类值":"1&2&3&4&5",
-"分类ul":"https://tv1920.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}/",
+"分类url":"https://tv1920.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}/",
 //"分类url":"https://tv1920.com/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html",
 
 "筛选":{
