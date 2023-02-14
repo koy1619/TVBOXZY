@@ -1,33 +1,26 @@
 {
-  "作者": "菜妮丝https://cainisi.cf",
-  "站名": "追剧啦",
-  "主页url": "https://www.zhuiju.la",
-  
-  "分类": "电影&连续剧&综艺&动漫&午夜剧场",
-  "分类值": "1&2&3&4&61",
-  
-  "分类url": "https://www.zhuiju.la/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
-  
-  "数组": "module-item-pic\">&&</div>",
-
-  "搜索模式": "1",
-  "搜索url": "/vodsearch/-------------.html?wd={wd}",
-  "搜索数组": "<img class=\"lazy lazyload&&<h3>",
-  "搜索图片": "data-src=\"&&\"",
-  "搜索标题": "title=\"&&\"",
-  "搜索链接": "href=\"&&\"",
-  "搜索副标题": "title=*>&&</a>",
-  
-  "导演": "导演：</span>&&</div>",
-  "主演": "主演：</span>&&</div>",
-  "简介": "剧情：</span>&&</span>",
-  
-  "线路数组": "data-dropdown-value=&&</div>",
-  "线路标题":"<span>&&</small>[替换:</span><small>>>♡]+集♡",
-  
-  "播放数组": "<div class=\"sort-item&&</div>",
-  
-  "筛选":{
+"作者":"张弘",
+"站名":"追剧啦",
+"主页url":"https://www.zhuiju.la",
+"数组":"<div class=\"module-item-pic\">&&<div class=\"module-item\">",
+"副标题":"module-item-text\">&&</div>",
+"搜索模式":"1",
+"搜索url":"/vodsearch/-------------.html?wd={wd}",
+"搜索数组":"<img class=\"lazy lazyload&&<h3>",
+"搜索图片":"data-src=\"&&\"",
+"搜索标题":"title=\"&&\"",
+"搜索链接":"href=\"&&\"",
+"搜索副标题":"title=*>&&</a>",
+"导演":"导演：</span>&&</div>",
+"主演":"主演：</span>&&</div>",
+"简介":"剧情：</span>&&</span>",
+"线路数组":"data-dropdown-value=&&</div>",
+"线路标题":"<span>&&</small>[替换:</span><small>>>♡]+集♡",
+"播放数组":"<div class=\"sort-item&&</div>",
+"分类":"电影&连续剧&综艺&动漫&午夜剧场",
+"分类值":"1&2&3&4&61",
+"分类url":"https://www.zhuiju.la/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
+"筛选":{
 "1":[
   {"key":"class","name":"剧情","value":[
   {"n":"全部","v":""},

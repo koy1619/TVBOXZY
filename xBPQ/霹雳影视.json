@@ -1,28 +1,21 @@
 {
-  "作者": "菜妮丝https://cainisi.cf",
-  "站名": "霹雳影视",
-  "主页url": "http://plyy.cc",
-  
-  "分类": "电影$1#电视剧$2#综艺$3#动漫$4#纪录片$41",
-  
-  "分类url": "http://plyy.cc/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
-  
-  "数组":"<div class=\"module-item-pic&&</div>",
-  
-  "搜索模式": "0",
-  "搜索后缀":"/voddetail/",
-  
-  "导演": "导演：&&</div>",
-  "主演": "主演：&&</div>",
-  "简介": "剧情：</span>&&</span>",
-  
-  "线路数组": "data-dropdown-value=&&</div>",
-  "线路标题":"<span>&&</small>[替换:</span><small>>>♡]+集♡",
-  
-  "播放数组": "<div class=\"scroll-content&&</div>",
-  "播放列表": "</a>*旧原来的-1*<a&&</a>",
-  
-  "筛选":{
+"作者":"张弘",
+"站名":"霹雳影视",
+"主页url":"http://plyy.cc",
+"数组":"<div class=\"module-item-pic\">&&<div class=\"module-item\">",  
+"副标题":"module-item-text\">&&</div>",
+"搜索模式":"0",
+"搜索后缀":"/voddetail/",
+"导演":"导演：&&</div>",
+"主演":"主演：&&</div>",
+"简介":"剧情：</span>&&</span>",
+"线路数组":"data-dropdown-value=&&</div>",
+"线路标题":"<span>&&</small>[替换:</span><small>>>♡]+集♡",
+"播放数组":"<div class=\"scroll-content&&</div>",
+"播放列表":"</a>*旧原来的-1*<a&&</a>",
+"分类":"电影$1#电视剧$2#综艺$3#动漫$4#纪录片$41",
+"分类url":"http://plyy.cc/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
+"筛选":{
 "1":[
   {"key":"class","name":"剧情","value":[
   {"n":"全部","v":""},
