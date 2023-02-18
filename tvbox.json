@@ -103,7 +103,7 @@
 
 {"key":"csp_xBPQ_低端影视","name":"低端影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/低端影视.json"},
 
-{"key":"csp_xBPQ_乐鱼影视","name":"乐鱼影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/乐鱼.json"},
+{"key":"csp_xBPQ_乐鱼影视","name":"乐鱼影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/乐鱼影视.json"},
 
 {"key":"csp_xBPQ_兄弟影视","name":"兄弟影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/兄弟影视.json"},
 
