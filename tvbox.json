@@ -95,6 +95,8 @@
 
 {"key":"csp_xBPQ_小猫咪","name":"小猫咪","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/小猫咪.json"},
 
+{"key":"csp_xBPQ_91影院","name":"91影院","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/91影院.json"},
+
 {"key":"csp_xBPQ_4K追番","name":"4K追番","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/4K追番.json"},
 
 {"key":"csp_xBPQ_HOHOTV","name":"HOHOTV","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/HOHOTV.json"},
