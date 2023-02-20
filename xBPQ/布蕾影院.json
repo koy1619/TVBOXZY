@@ -25,6 +25,7 @@
 "播放链接":"href=\"&&\"",
 "分类":"电影$1#电视剧$2#综艺$3#动漫$4#欧美剧$5#日韩剧$21#哔哩哔哩$22",
 "分类url":"https://www.bulei.cc/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/year/{year}.html",
+"嗅探词": ".m3u8#m3u8?#.mp4#mp4?#ixigua#.czspp#.flv#.mp3#.m4a#?item/video#is_play_url=1#play/?#qianpailive",
 "筛选":{
 "1":[
 {
