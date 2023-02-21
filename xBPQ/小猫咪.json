@@ -18,7 +18,7 @@
 "播放标题":">&&<",
 "播放链接":"href=\"&&\"",
 "播放链接前缀":"https://fositv.com",
-"搜索url":"https://fositv.com/vod____search/{wd}----------{pg}---.html",
+"搜索url":"https://fositv.com/vod______________________________search/{wd}----------{pg}---.html",
 "搜索模式":"1",
 "搜索数组":"<li class=\"clearfix\">&&</li>",
 "搜索图片":"data-original=\"&&\"",
