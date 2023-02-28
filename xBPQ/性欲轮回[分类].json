@@ -7,7 +7,7 @@
 "图片": "img src=\"&&\"",
 "标题": "alt=\"&&\"",
 "链接": "href=\"&&\"",
-"副标题":"<span class=\"item-auxiliary\">&&</span>",
+"副标题":"添加时间:&&</span>",
 "搜索url":"/vodsearch/{wd}----------{pg}---.html",
 "搜索模式":"0",
 "搜索数组":"class=\"item-box&&</section>",
